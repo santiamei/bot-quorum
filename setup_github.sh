@@ -67,10 +67,12 @@ echo "  ✓ WHATSAPP_PHONE configurado"
 
 echo ""
 echo "  Para activar CallMeBot (WhatsApp gratuito):"
-echo "  1. Abrí WhatsApp y mandá este mensaje al +34 644 97 46 14:"
-echo "     I allow callmebot to send me messages"
-echo "  2. Recibirás tu API key por WhatsApp."
-read -p "CALLMEBOT_API_KEY (recibirás el valor por WhatsApp): " CMB_KEY
+echo "  → Mandá este mensaje por WhatsApp al +34 644 97 46 14:"
+echo "      I allow callmebot to send me messages"
+echo "  → En 1-2 minutos te llega tu API key (un número de 7 dígitos)."
+echo "  → Mientras esperás, el script queda en pausa hasta que la escribas."
+echo ""
+read -p "CALLMEBOT_API_KEY: " CMB_KEY
 $GH secret set CALLMEBOT_API_KEY --body "$CMB_KEY" --repo "$GH_USER/$REPO_NAME"
 echo "  ✓ CALLMEBOT_API_KEY configurado"
 
