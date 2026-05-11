@@ -1,0 +1,584 @@
+{
+  "bill_name": "Reforma electoral",
+  "bill_slug": "reforma-electoral",
+  "vote_date": null,
+  "deputies": [
+    {
+      "apellido": "Arrieta",
+      "nombre": "Lourdes Micaela",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Avila",
+      "nombre": "Jorge Antonio",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Basualdo",
+      "nombre": "Carolina",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Brügge",
+      "nombre": "Juan Fernando",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Capozzi",
+      "nombre": "Sergio Eduardo",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Coletta",
+      "nombre": "Mariela",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Farías",
+      "nombre": "Pablo",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "García Aresca",
+      "nombre": "Ignacio",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Gutiérrez",
+      "nombre": "Carlos",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Juliano",
+      "nombre": "Pablo",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Lousteau",
+      "nombre": "Martín",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Nuñez",
+      "nombre": "José",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Paulón",
+      "nombre": "Esteban",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Rizzotti",
+      "nombre": "Jorge",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Scaglia",
+      "nombre": "Gisela",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Schiaretti",
+      "nombre": "Juan",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Torres",
+      "nombre": "Alejandra",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Zigarán",
+      "nombre": "María Inés",
+      "bloque": "PROVINCIAS UNIDAS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Arrúa",
+      "nombre": "Alberto",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Álvarez",
+      "nombre": "Claudio",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Biella",
+      "nombre": "Bernardo",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "González",
+      "nombre": "Gerardo Gustavo",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Herrera Ahuad",
+      "nombre": "Oscar A.",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Outes",
+      "nombre": "Pablo",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Ruíz",
+      "nombre": "Yamila",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Vancsik",
+      "nombre": "Daniel",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Vega",
+      "nombre": "Yolanda",
+      "bloque": "INNOVACIÓN FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Verasay",
+      "nombre": "Pamela Fernanda",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Agüero",
+      "nombre": "Guillermo César",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Cipolini",
+      "nombre": "Gerardo",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "González",
+      "nombre": "Diógenes Ignacio",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Nieri",
+      "nombre": "Lisandro",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Schneider",
+      "nombre": "Darío",
+      "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Nóblega",
+      "nombre": "Sebastián",
+      "bloque": "ELIJO CATAMARCA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Avila",
+      "nombre": "Fernanda",
+      "bloque": "ELIJO CATAMARCA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Monguillot",
+      "nombre": "Fernando",
+      "bloque": "ELIJO CATAMARCA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Medina",
+      "nombre": "Gladys",
+      "bloque": "INDEPENDENCIA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Fernández",
+      "nombre": "Elia Marina",
+      "bloque": "INDEPENDENCIA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Noguera",
+      "nombre": "Javier",
+      "bloque": "INDEPENDENCIA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Ferraro",
+      "nombre": "Maximiliano",
+      "bloque": "COALICIÓN CÍVICA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Frade",
+      "nombre": "Mónica",
+      "bloque": "COALICIÓN CÍVICA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Pichetto",
+      "nombre": "Miguel Ángel",
+      "bloque": "ENCUENTRO FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Massot",
+      "nombre": "Nicolás",
+      "bloque": "ENCUENTRO FEDERAL",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Zago",
+      "nombre": "Oscar",
+      "bloque": "MID",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Falcone",
+      "nombre": "Eduardo",
+      "bloque": "MID",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Del Plá",
+      "nombre": "Romina",
+      "bloque": "PARTIDO OBRERO - FIT UNIDAD",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Pitrola",
+      "nombre": "Néstor",
+      "bloque": "PARTIDO OBRERO - FIT UNIDAD",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Picón Martínez",
+      "nombre": "Nancy Viviana",
+      "bloque": "PRODUCCIÓN Y TRABAJO",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Jaime Quiroga",
+      "nombre": "Carlos Gustavo",
+      "bloque": "PRODUCCIÓN Y TRABAJO",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Bregman",
+      "nombre": "Myriam",
+      "bloque": "PTS - FIT UNIDAD",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Del Caño",
+      "nombre": "Nicolás",
+      "bloque": "PTS - FIT UNIDAD",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Banfi",
+      "nombre": "Karina",
+      "bloque": "ADELANTE BUENOS AIRES",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Pagano",
+      "nombre": "Marcela Marina",
+      "bloque": "COHERENCIA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "De la Sota",
+      "nombre": "Natalia",
+      "bloque": "DEFENDAMOS CÓRDOBA",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Maureira",
+      "nombre": "Karina",
+      "bloque": "LA NEUQUINIDAD",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Garrido",
+      "nombre": "José Luis",
+      "bloque": "POR SANTA CRUZ",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    },
+    {
+      "apellido": "Fernández",
+      "nombre": "Jorge",
+      "bloque": "PRIMERO SAN LUIS",
+      "intention": "sin_info",
+      "confidence": 0.0,
+      "quote": null,
+      "source": null,
+      "reasoning": "No se encontraron artículos relevantes."
+    }
+  ],
+  "summary": {
+    "favor": 0,
+    "contra": 0,
+    "abstencion": 0,
+    "sin_info": 57
+  },
+  "last_updated": "2026-05-11T22:00:03.886057"
+}

@@ -1,0 +1,6 @@
+bills:
+- active: true
+  added: '2026-05-11'
+  name: Reforma electoral
+  slug: reforma-electoral
+  vote_date: null
