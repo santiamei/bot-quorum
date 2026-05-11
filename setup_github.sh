@@ -61,20 +61,13 @@ read -p "GEMINI_API_KEY (de aistudio.google.com): " GEMINI_KEY
 $GH secret set GEMINI_API_KEY --body "$GEMINI_KEY" --repo "$GH_USER/$REPO_NAME"
 echo "  ✓ GEMINI_API_KEY configurado"
 
-read -p "Tu número de WhatsApp con código de país (ej: +5491155667788): " WA_PHONE
-$GH secret set WHATSAPP_PHONE --body "$WA_PHONE" --repo "$GH_USER/$REPO_NAME"
-echo "  ✓ WHATSAPP_PHONE configurado"
+read -p "TELEGRAM_BOT_TOKEN (lo dio @BotFather): " TG_TOKEN
+$GH secret set TELEGRAM_BOT_TOKEN --body "$TG_TOKEN" --repo "$GH_USER/$REPO_NAME"
+echo "  ✓ TELEGRAM_BOT_TOKEN configurado"
 
-echo ""
-echo "  Para activar CallMeBot (WhatsApp gratuito):"
-echo "  → Mandá este mensaje por WhatsApp al +34 644 97 46 14:"
-echo "      I allow callmebot to send me messages"
-echo "  → En 1-2 minutos te llega tu API key (un número de 7 dígitos)."
-echo "  → Mientras esperás, el script queda en pausa hasta que la escribas."
-echo ""
-read -p "CALLMEBOT_API_KEY: " CMB_KEY
-$GH secret set CALLMEBOT_API_KEY --body "$CMB_KEY" --repo "$GH_USER/$REPO_NAME"
-echo "  ✓ CALLMEBOT_API_KEY configurado"
+read -p "TELEGRAM_CHAT_ID (tu chat id de Telegram): " TG_CHAT
+$GH secret set TELEGRAM_CHAT_ID --body "$TG_CHAT" --repo "$GH_USER/$REPO_NAME"
+echo "  ✓ TELEGRAM_CHAT_ID configurado"
 
 # ── 6. Habilitar GitHub Pages ────────────────────────────────────────────────
 echo ""
