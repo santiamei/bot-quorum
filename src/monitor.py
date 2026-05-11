@@ -60,7 +60,7 @@ def run_bill(bill: dict, deputies: list[dict], send_summary: bool = False):
         nombre = deputy["nombre"]
         bloque = deputy["bloque"]
 
-        articles = fetch_articles(apellido, nombre, bill_name)
+        articles = fetch_articles(apellido, nombre, bloque, bill_name)
         analysis = analyze_deputy_intent(apellido, nombre, bloque, bill_name, articles)
 
         result = {
@@ -70,6 +70,10 @@ def run_bill(bill: dict, deputies: list[dict], send_summary: bool = False):
             "intention": analysis["intention"],
             "confidence": analysis["confidence"],
             "quote": analysis.get("quote"),
+            "sources": [
+                {"title": a["title"], "url": a["url"], "source": a["source"]}
+                for a in articles if a.get("url")
+            ],
             "source": analysis.get("source"),
             "reasoning": analysis.get("reasoning"),
         }

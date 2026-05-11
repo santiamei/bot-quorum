@@ -8,26 +8,21 @@ on:
   schedule:
     - cron: "0 11,17,23 * * *"
 
-  # Trigger manual: agregar o forzar ejecución
   workflow_dispatch:
     inputs:
       bill_name:
-        description: "Nombre del proyecto de ley (dejá vacío para correr todos los activos)"
-        required: false
-        default: ""
-      vote_date:
-        description: "Fecha de votación YYYY-MM-DD (opcional)"
+        description: "Nombre o tema del proyecto (ej: reforma electoral, presupuesto universitario)"
         required: false
         default: ""
       send_summary:
-        description: "Enviar resumen diario por WhatsApp"
+        description: "Enviar resumen por Telegram"
         required: false
         default: "false"
         type: choice
         options: ["false", "true"]
 
 permissions:
-  contents: write  # para hacer commit de los datos JSON
+  contents: write
 
 jobs:
   monitor:
@@ -55,12 +50,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          ARGS="--bill \"${{ github.event.inputs.bill_name }}\""
-          if [ -n "${{ github.event.inputs.vote_date }}" ]; then
-            ARGS="$ARGS --date \"${{ github.event.inputs.vote_date }}\""
-          fi
-          eval python -m src.monitor $ARGS
+        run: python -m src.monitor --bill "${{ github.event.inputs.bill_name }}"
 
       - name: Correr monitor de proyectos activos
         env:

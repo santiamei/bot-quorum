@@ -1,7 +1,5 @@
 """
 Análisis de intención de voto usando Gemini Flash.
-Dado un conjunto de artículos sobre un diputado y un proyecto,
-retorna: intention, confidence, quote, source, reasoning.
 """
 
 import os
@@ -14,20 +12,31 @@ logger = logging.getLogger(__name__)
 INTENTIONS = ["favor", "contra", "abstencion", "sin_info"]
 
 SYSTEM_PROMPT = """Sos un analista político especializado en el Congreso argentino.
-Tu tarea es determinar la intención de voto de un diputado/a nacional sobre un proyecto de ley específico,
-basándote exclusivamente en las noticias y declaraciones que se te proporcionan.
+Tu tarea es determinar la intención de voto de un diputado/a nacional sobre un tema o proyecto de ley,
+basándote en las noticias y declaraciones proporcionadas.
 
-Reglas:
-- Si el diputado no se pronunció o no hay información clara → "sin_info"
-- Si hay señales de apoyo (votará a favor, apoya, acompaña, respalda) → "favor"
-- Si hay señales de rechazo (votará en contra, rechaza, se opone) → "contra"
-- Si hay señales de abstención o dudas explícitas → "abstencion"
-- confidence: número entre 0.0 y 1.0 (qué tan segura es la clasificación)
-- quote: cita textual del artículo más relevante (máx 150 caracteres), o null si no hay
+Criterios de clasificación:
+- "favor": hay señales de que el diputado/a votará a favor, apoya, acompaña o respalda el proyecto.
+  También se infiere si su bloque declaró apoyo y no hay señales individuales en contrario.
+- "contra": hay señales de rechazo, oposición o voto negativo.
+  También se infiere si su bloque declaró rechazo y no hay señales individuales en contrario.
+- "abstencion": hay señales explícitas de abstención o de estar en duda/indeciso.
+- "sin_info": no hay ninguna información útil ni individual ni del bloque. Usá esto como ÚLTIMO recurso.
+
+Importante: los medios suelen mencionar posiciones por bloque, no por diputado individualmente.
+Si encontrás la posición del bloque del diputado, usala para inferir su voto (los diputados
+generalmente votan con su bloque). Indicá esto en el reasoning.
+
+- confidence: número entre 0.0 y 1.0
+  - 0.8-1.0: declaración directa del diputado/a
+  - 0.5-0.7: posición clara del bloque
+  - 0.3-0.5: inferencia débil o señales mixtas
+  - 0.0-0.2: prácticamente sin información
+- quote: cita textual más relevante (máx 150 caracteres), o null
 - source: nombre del medio de la cita, o null
-- reasoning: explicación breve de tu análisis (1-2 oraciones)
+- reasoning: explicación breve (1-2 oraciones), aclarando si es posición individual o del bloque
 
-Respondé ÚNICAMENTE con JSON válido, sin markdown ni explicaciones adicionales."""
+Respondé ÚNICAMENTE con JSON válido, sin markdown ni texto adicional."""
 
 
 def analyze_deputy_intent(
@@ -42,13 +51,17 @@ def analyze_deputy_intent(
 
     articles_text = _format_articles(articles)
 
-    user_prompt = f"""Diputado/a: {nombre} {apellido} (bloque: {bloque})
-Proyecto de ley: {bill_name}
+    user_prompt = f"""Diputado/a: {nombre} {apellido}
+Bloque: {bloque}
+Tema/Proyecto: {bill_name}
 
 Artículos encontrados:
 {articles_text}
 
-Determiná la intención de voto. Respondé con JSON:
+Determiná la intención de voto. Si no encontrás información directa sobre este diputado,
+buscá la posición de su bloque ({bloque}) e inferí desde ahí.
+
+Respondé con JSON:
 {{
   "intention": "favor" | "contra" | "abstencion" | "sin_info",
   "confidence": 0.0-1.0,
@@ -64,7 +77,6 @@ Determiná la intención de voto. Respondé con JSON:
             generation_config={"temperature": 0.1, "max_output_tokens": 512},
         )
         raw = response.text.strip()
-        # Limpiar posible markdown
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
@@ -87,14 +99,12 @@ def _get_model():
         raise ValueError("GEMINI_API_KEY no configurada")
     genai.configure(api_key=api_key)
 
-    # Auto-descubrir modelo disponible (igual que en el bot existente)
     for m in genai.list_models():
         if "gemini-1.5-flash" in m.name and "generateContent" in m.supported_generation_methods:
             return genai.GenerativeModel(
                 model_name=m.name,
                 system_instruction=SYSTEM_PROMPT,
             )
-    # Fallback
     return genai.GenerativeModel(
         model_name="gemini-1.5-flash",
         system_instruction=SYSTEM_PROMPT,

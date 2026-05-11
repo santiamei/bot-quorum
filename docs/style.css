@@ -212,7 +212,22 @@ tr:hover td { background: #f8fafc; }
   font-style: normal;
   margin-top: 2px;
 }
-.reasoning-cell { font-size: .82rem; color: #6b7280; max-width: 280px; }
+.reasoning-cell { font-size: .82rem; color: #374151; max-width: 220px; }
+.reasoning-cell .quote-text { font-style: italic; margin-bottom: 4px; }
+
+.sources-cell { max-width: 180px; }
+.source-link {
+  display: block;
+  font-size: .78rem;
+  color: var(--primary);
+  text-decoration: none;
+  padding: 2px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 170px;
+}
+.source-link:hover { text-decoration: underline; }
 
 /* ── Empty State ───────────────────────────────────────────────────────────── */
 .empty-state {

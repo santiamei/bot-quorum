@@ -124,14 +124,6 @@ function renderBill() {
   // Meta
   document.getElementById("bill-title").textContent = currentData.bill_name;
 
-  const dateEl = document.getElementById("vote-date-badge");
-  if (currentData.vote_date) {
-    dateEl.textContent = `🗓 Votación: ${formatDate(currentData.vote_date)}`;
-    dateEl.style.display = "inline-block";
-  } else {
-    dateEl.style.display = "none";
-  }
-
   const updated = currentData.last_updated
     ? `Actualizado: ${formatDatetime(currentData.last_updated)}`
     : "";
@@ -194,11 +186,11 @@ function renderTable() {
           <span class="confidence-pct">${conf}%</span>
         </div>
       </td>
-      <td class="quote-cell">
+      <td class="reasoning-cell">
         ${d.quote ? `<div class="quote-text">"${escHtml(d.quote)}"</div>` : ""}
-        ${d.source ? `<span class="source-tag">${escHtml(d.source)}</span>` : "—"}
+        <div>${escHtml(d.reasoning || "")}</div>
       </td>
-      <td class="reasoning-cell">${escHtml(d.reasoning || "")}</td>
+      <td class="sources-cell">${_renderSources(d.sources)}</td>
     `;
     tbody.appendChild(tr);
   }
@@ -237,10 +229,14 @@ function setupFilters() {
 }
 
 /* ── Helpers ───────────────────────────────────────────────────────────────── */
-function formatDate(iso) {
-  if (!iso) return "";
-  const [y, m, d] = iso.split("-");
-  return `${d}/${m}/${y}`;
+function _renderSources(sources) {
+  if (!sources || sources.length === 0) return "<span style='color:#9ca3af'>—</span>";
+  return sources.map(s => {
+    const label = escHtml(s.source || s.title || "Ver nota");
+    const title = escHtml(s.title || "");
+    const url   = s.url || "#";
+    return `<a class="source-link" href="${url}" target="_blank" rel="noopener" title="${title}">${label}</a>`;
+  }).join("");
 }
 
 function formatDatetime(iso) {
