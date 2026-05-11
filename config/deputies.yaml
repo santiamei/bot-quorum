@@ -1,0 +1,250 @@
+# Diputados a monitorear - Fuente: HCDN (hcdn.gob.ar)
+# Última actualización: 2026-05-11
+# Bloques: oposición dialoguista y bloques provinciales/independientes
+
+deputies:
+
+  # ── PROVINCIAS UNIDAS (18) ──────────────────────────────────────────────────
+  - apellido: Arrieta
+    nombre: Lourdes Micaela
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Avila
+    nombre: Jorge Antonio
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Basualdo
+    nombre: Carolina
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Brügge
+    nombre: Juan Fernando
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Capozzi
+    nombre: Sergio Eduardo
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Coletta
+    nombre: Mariela
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Farías
+    nombre: Pablo
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: García Aresca
+    nombre: Ignacio
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Gutiérrez
+    nombre: Carlos
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Juliano
+    nombre: Pablo
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Lousteau
+    nombre: Martín
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Nuñez
+    nombre: José
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Paulón
+    nombre: Esteban
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Rizzotti
+    nombre: Jorge
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Scaglia
+    nombre: Gisela
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Schiaretti
+    nombre: Juan
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Torres
+    nombre: Alejandra
+    bloque: PROVINCIAS UNIDAS
+
+  - apellido: Zigarán
+    nombre: María Inés
+    bloque: PROVINCIAS UNIDAS
+
+  # ── INNOVACIÓN FEDERAL (9) ──────────────────────────────────────────────────
+  - apellido: Arrúa
+    nombre: Alberto
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Álvarez
+    nombre: Claudio
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Biella
+    nombre: Bernardo
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: González
+    nombre: Gerardo Gustavo
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Herrera Ahuad
+    nombre: Oscar A.
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Outes
+    nombre: Pablo
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Ruíz
+    nombre: Yamila
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Vancsik
+    nombre: Daniel
+    bloque: INNOVACIÓN FEDERAL
+
+  - apellido: Vega
+    nombre: Yolanda
+    bloque: INNOVACIÓN FEDERAL
+
+  # ── UCR - UNIÓN CÍVICA RADICAL (6) ─────────────────────────────────────────
+  - apellido: Verasay
+    nombre: Pamela Fernanda
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  - apellido: Agüero
+    nombre: Guillermo César
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  - apellido: Cipolini
+    nombre: Gerardo
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  - apellido: González
+    nombre: Diógenes Ignacio
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  - apellido: Nieri
+    nombre: Lisandro
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  - apellido: Schneider
+    nombre: Darío
+    bloque: UCR - UNIÓN CÍVICA RADICAL
+
+  # ── ELIJO CATAMARCA (3) ────────────────────────────────────────────────────
+  - apellido: Nóblega
+    nombre: Sebastián
+    bloque: ELIJO CATAMARCA
+
+  - apellido: Avila
+    nombre: Fernanda
+    bloque: ELIJO CATAMARCA
+
+  - apellido: Monguillot
+    nombre: Fernando
+    bloque: ELIJO CATAMARCA
+
+  # ── INDEPENDENCIA (3) ──────────────────────────────────────────────────────
+  - apellido: Medina
+    nombre: Gladys
+    bloque: INDEPENDENCIA
+
+  - apellido: Fernández
+    nombre: Elia Marina
+    bloque: INDEPENDENCIA
+
+  - apellido: Noguera
+    nombre: Javier
+    bloque: INDEPENDENCIA
+
+  # ── COALICIÓN CÍVICA (2) ───────────────────────────────────────────────────
+  - apellido: Ferraro
+    nombre: Maximiliano
+    bloque: COALICIÓN CÍVICA
+
+  - apellido: Frade
+    nombre: Mónica
+    bloque: COALICIÓN CÍVICA
+
+  # ── ENCUENTRO FEDERAL (2) ──────────────────────────────────────────────────
+  - apellido: Pichetto
+    nombre: Miguel Ángel
+    bloque: ENCUENTRO FEDERAL
+
+  - apellido: Massot
+    nombre: Nicolás
+    bloque: ENCUENTRO FEDERAL
+
+  # ── MID - MOVIMIENTO DE INTEGRACIÓN Y DESARROLLO (2) ──────────────────────
+  - apellido: Zago
+    nombre: Oscar
+    bloque: MID
+
+  - apellido: Falcone
+    nombre: Eduardo
+    bloque: MID
+
+  # ── PARTIDO OBRERO EN EL FRENTE DE IZQUIERDA (2) ──────────────────────────
+  - apellido: Del Plá
+    nombre: Romina
+    bloque: PARTIDO OBRERO - FIT UNIDAD
+
+  - apellido: Pitrola
+    nombre: Néstor
+    bloque: PARTIDO OBRERO - FIT UNIDAD
+
+  # ── PRODUCCIÓN Y TRABAJO (2) ───────────────────────────────────────────────
+  - apellido: Picón Martínez
+    nombre: Nancy Viviana
+    bloque: PRODUCCIÓN Y TRABAJO
+
+  - apellido: Jaime Quiroga
+    nombre: Carlos Gustavo
+    bloque: PRODUCCIÓN Y TRABAJO
+
+  # ── PTS - FRENTE DE IZQUIERDA (2) ─────────────────────────────────────────
+  - apellido: Bregman
+    nombre: Myriam
+    bloque: PTS - FIT UNIDAD
+
+  - apellido: Del Caño
+    nombre: Nicolás
+    bloque: PTS - FIT UNIDAD
+
+  # ── ADELANTE BUENOS AIRES (1) ──────────────────────────────────────────────
+  - apellido: Banfi
+    nombre: Karina
+    bloque: ADELANTE BUENOS AIRES
+
+  # ── COHERENCIA (1) ────────────────────────────────────────────────────────
+  - apellido: Pagano
+    nombre: Marcela Marina
+    bloque: COHERENCIA
+
+  # ── DEFENDAMOS CÓRDOBA (1) ────────────────────────────────────────────────
+  - apellido: De la Sota
+    nombre: Natalia
+    bloque: DEFENDAMOS CÓRDOBA
+
+  # ── LA NEUQUINIDAD (1) ────────────────────────────────────────────────────
+  - apellido: Maureira
+    nombre: Karina
+    bloque: LA NEUQUINIDAD
+
+  # ── POR SANTA CRUZ (1) ────────────────────────────────────────────────────
+  - apellido: Garrido
+    nombre: José Luis
+    bloque: POR SANTA CRUZ
+
+  # ── PRIMERO SAN LUIS (1) ──────────────────────────────────────────────────
+  - apellido: Fernández
+    nombre: Jorge
+    bloque: PRIMERO SAN LUIS

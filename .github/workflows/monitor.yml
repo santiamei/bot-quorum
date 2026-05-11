@@ -1,0 +1,83 @@
+name: Monitor de intención de voto
+
+on:
+  # Corre 3 veces por día hora Argentina (UTC-3):
+  #   8:00 AR = 11:00 UTC
+  #   14:00 AR = 17:00 UTC
+  #   20:00 AR = 23:00 UTC
+  schedule:
+    - cron: "0 11,17,23 * * *"
+
+  # Trigger manual: agregar o forzar ejecución
+  workflow_dispatch:
+    inputs:
+      bill_name:
+        description: "Nombre del proyecto de ley (dejá vacío para correr todos los activos)"
+        required: false
+        default: ""
+      vote_date:
+        description: "Fecha de votación YYYY-MM-DD (opcional)"
+        required: false
+        default: ""
+      send_summary:
+        description: "Enviar resumen diario por WhatsApp"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+permissions:
+  contents: write  # para hacer commit de los datos JSON
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Agregar proyecto (si se especificó)
+        if: ${{ github.event.inputs.bill_name != '' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_API_KEY: ${{ secrets.CALLMEBOT_API_KEY }}
+        run: |
+          ARGS="--bill \"${{ github.event.inputs.bill_name }}\""
+          if [ -n "${{ github.event.inputs.vote_date }}" ]; then
+            ARGS="$ARGS --date \"${{ github.event.inputs.vote_date }}\""
+          fi
+          eval python -m src.monitor $ARGS
+
+      - name: Correr monitor de proyectos activos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_API_KEY: ${{ secrets.CALLMEBOT_API_KEY }}
+        run: |
+          SUMMARY_FLAG=""
+          if [ "${{ github.event.inputs.send_summary }}" = "true" ]; then
+            SUMMARY_FLAG="--summary"
+          fi
+          python -m src.monitor $SUMMARY_FLAG
+
+      - name: Commit de datos actualizados
+        run: |
+          git config user.name  "QuorumBot"
+          git config user.email "quorumbot@noreply"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: actualizar datos de poroteo [skip ci]"
+          git push

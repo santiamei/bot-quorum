@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Poroteo Legislativo — HCDN</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <h1>🏛️ Poroteo Legislativo</h1>
+      <p class="subtitle">Intención de voto — Cámara de Diputados de la Nación Argentina</p>
+    </div>
+  </header>
+
+  <main>
+    <!-- Tabs de proyectos -->
+    <nav id="bill-tabs" class="bill-tabs">
+      <span class="tabs-loading">Cargando proyectos...</span>
+    </nav>
+
+    <!-- Contenido principal -->
+    <section id="bill-content">
+      <div id="no-bills" class="empty-state" style="display:none">
+        <p>No hay proyectos siendo monitoreados aún.</p>
+        <p>Agregá uno desde GitHub Actions → <strong>Agregar proyecto de ley</strong>.</p>
+      </div>
+
+      <!-- Header del proyecto activo -->
+      <div id="bill-header" style="display:none">
+        <div class="bill-meta">
+          <h2 id="bill-title"></h2>
+          <div class="meta-row">
+            <span id="vote-date-badge"></span>
+            <span id="last-updated"></span>
+          </div>
+        </div>
+
+        <!-- Barra de resumen -->
+        <div id="summary-bar" class="summary-bar">
+          <div class="summary-pill favor">
+            <span class="pill-icon">✅</span>
+            <span class="pill-label">A favor</span>
+            <span id="count-favor" class="pill-count">0</span>
+          </div>
+          <div class="summary-pill contra">
+            <span class="pill-icon">❌</span>
+            <span class="pill-label">En contra</span>
+            <span id="count-contra" class="pill-count">0</span>
+          </div>
+          <div class="summary-pill abstencion">
+            <span class="pill-icon">⚠️</span>
+            <span class="pill-label">Abstención</span>
+            <span id="count-abstencion" class="pill-count">0</span>
+          </div>
+          <div class="summary-pill sin-info">
+            <span class="pill-icon">❓</span>
+            <span class="pill-label">Sin info</span>
+            <span id="count-sin-info" class="pill-count">0</span>
+          </div>
+        </div>
+
+        <!-- Filtros -->
+        <div class="filters">
+          <button class="filter-btn active" data-filter="all">Todos</button>
+          <button class="filter-btn" data-filter="favor">A favor</button>
+          <button class="filter-btn" data-filter="contra">En contra</button>
+          <button class="filter-btn" data-filter="abstencion">Abstención</button>
+          <button class="filter-btn" data-filter="sin_info">Sin info</button>
+          <input type="text" id="search-input" placeholder="Buscar diputado o bloque..." />
+        </div>
+      </div>
+
+      <!-- Tabla de diputados -->
+      <div class="table-wrapper">
+        <table id="deputies-table" style="display:none">
+          <thead>
+            <tr>
+              <th class="sortable" data-col="apellido">Diputado/a ↕</th>
+              <th class="sortable" data-col="bloque">Bloque ↕</th>
+              <th class="sortable" data-col="intention">Intención ↕</th>
+              <th>Confianza</th>
+              <th>Fuente</th>
+              <th>Fundamento</th>
+            </tr>
+          </thead>
+          <tbody id="deputies-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Datos actualizados automáticamente 3 veces al día. Fuente: medios periodísticos argentinos + Gemini AI.</p>
+    <p><a href="https://www.hcdn.gob.ar" target="_blank">hcdn.gob.ar</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

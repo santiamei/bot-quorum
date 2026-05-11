@@ -1,0 +1,38 @@
+name: Actualizar nómina de diputados
+
+on:
+  # Primer día de cada mes a las 9am AR
+  schedule:
+    - cron: "0 12 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Actualizar nómina desde HCDN
+        run: python scripts/fetch_deputies.py
+
+      - name: Commit
+        run: |
+          git config user.name  "QuorumBot"
+          git config user.email "quorumbot@noreply"
+          git add config/deputies.yaml
+          git diff --staged --quiet || git commit -m "chore: actualizar nómina de diputados desde HCDN [skip ci]"
+          git push
