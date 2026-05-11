@@ -4,3 +4,8 @@ bills:
   name: Reforma electoral
   slug: reforma-electoral
   vote_date: null
+- active: true
+  added: '2026-05-11'
+  name: Eliminación elecciones PASO
+  slug: eliminacion-elecciones-paso
+  vote_date: null
