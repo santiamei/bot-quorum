@@ -12,19 +12,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Una diputada nacional cuestionó a Milei y admitió: “Estoy decepcionada de su gobierno” - Agencia Noticias Argentinas",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVDh6NXBfV2pKclBuSTNvc3NhdG9vLURIS2lWQldwUnVmeGJ1blhFSmRpZkI3aFE1Q1dNNDRtVFFkODZBZE95al8tUVpoWFVtRGNUcVd5X3ZrUGgtSXlmTWhLeTBZWTNJcmxCMmg1eXo2dXd3SUlKbUZVQ0hEMy02TzlLRllFVzZkcTdwZGtSSjd5WHkwVjBrYUIwYUk4TUpQRnNzcVNPYndhS0xlLXhGMTNkSUNidll4akpNektwaTdvYTJqRk52RGEtSU50bDJJV3JhY2pXM2Vhd0xMWDNBNUx4OGRBUlXSAfYBQVVfeXFMT0FLSDlMblY1TnVRYldXeUNMUnk3enp0c2NVeXYxQVhOVmxKMGJpQzdvTWQ1SlVkVVhhNXJOZUxPTXA2X29VTHlscFlVUWZlQlRacXBueTZpSVc4U2hSeUF3VmEzdUV2SW5nWDh5SFRENTBNQUgtaE1tUll2SXp1QlBqMW1YNkdVSmJ1NXZyS2w1T19ZWVZ2cXZKa244VXFPNkdPOTNqMHF0ckVCMlo2bm03TnF1V2N0R2JJMUZoR0ZYRFdiNmUyWnlERUJZa2ZnMTQ5M3lGSDVjWE94UGczLXhXQ2t2WnEtTnh2STItS3dmckg0YkFR?oc=5",
-          "source": "Agencia Noticias Argentinas"
-        },
-        {
           "title": "Receso en el Congreso: cuál fue el rol de los legisladores mendocinos en el primer semestre - Sitio Andino",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVc3X2RGOGZEbnNsbk5VVERDTnhSTS1lM0hGSTZpVVVkcFFfb0RDdHBaTHdIaTA5YlJTamI1SU1NOXdBSnM4RVFyNUVEbGFUSEhJWnB6Z3NMZGxENUZjZDQyMHdkam5iWDlDSXVQcGRsUEdjUkJWUWRrTVF2ZjlWUURmS3FaM05kLVA0NmU0WVZRNmF3dl90b0hZVVB6MmYyeVlUaV9xQXJYTUg5d19jWU9YdnVxQTNnekJYTzVNZ01RbncxOHNvRUlB0gHPAUFVX3lxTE1PNkd3cTdxZXlxcFJuLWxGZk9jVnBwdTkzS1JjTVdrUFlTOXRhc2JWLWUwV1E4TmlFMkUtYTNvcEdNd3dpTmV3Q2RiNldkTmJoYXhiSkpyUnNyVkszVWExZGZHQjhEY2ZNNW9JSGlZLWZIQjJpSjhVdHB6cmE3Q1JxM3RfVEJRUGxQTnNGN2ZTeU4zYmRJcjFKb3pLd2hRUHhSRDdEWF9MSTZHamROV05qc3ZTNWV2YzVlZERjeTFaV1pTdUwxUHJET19hVnFNWQ?oc=5",
           "source": "Sitio Andino"
-        },
-        {
-          "title": "Lourdes Arrieta dijo que la caída de la Ficha Limpia \"estaba arreglada\" - MendoVoz",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeUk5TW9VZHpPZlhIWUVTSXZRYmtTMklRWkFRc0JzLXczWFh0TzlMc1BHVkpKU0xNNmpnWU15eWkzbTJReW44VEYxTkpIVk9FbDB2RXBXMVhaaU55S1pwLWVFZVF2d010MzFqZ2JLT3c4SzNVOG9QV2NPUGpvWGpiSGZ4b3dWb1NWaWFmcU9kRXVpUFNENkRzVnFYel83XzE0dnVDNHJaQzlSUk5nekpnSlZZMUo3TTYyTjdTTG9UOHdPREx6OWNiY2xZM2stSV9yN1VydQ?oc=5",
-          "source": "MendoVoz"
         },
         {
           "title": "Tras salir de LLA, Lourdes Arrieta anticipó su voto en un proyecto clave: “A los jubilados hay que darl - Diario Mendoza Today",
@@ -32,19 +22,29 @@
           "source": "Diario Mendoza Today"
         },
         {
+          "title": "Lourdes Arrieta anticipó cómo votará en temas clave para el Gobierno tras su salida de la LA - El retrato de Hoy",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVViQlFBTWRNOGNXUVB1bnlKcWdsWGVHMUFYQVF3d3Y3dnl0bFVOOGR2M0tZdGFTSWxIak1neXhRRnMwTmpQdl9DeHNUY0lpbjAxamJCZkJQQ3BFY0UwaDdSOVA0bndHQTJvUXEzZjF1MG40VGJHcjNjSGU4cFdLM3ptRG56TFRaYjc3WTR0ZzlfV3BDVnNFcHZaMHYtUnJhMW1temNjMG5VUm5JOGZsZVdLTlBCeVd2cGRpQkZRRGt4cDdNRFhqLXgyTzBXMDg?oc=5",
+          "source": "El retrato de Hoy"
+        },
+        {
+          "title": "Marisa Uceda: \"La gente nos pide que le pongamos un límite a Milei\" - MendoVoz",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbW1OeUprVE9JUEJiSnVtZWkzaXVEVXo4bVp2UXhJZXNLdXAtMjJueEdFN0RmSzF3anZ3STY1NG1qd1g1bThsWGR1dy0zcW5vYVRvSW1Tc21RWVNfcEc5SlBrT3NGNi1ycmhhMkNZSXBDQkZSNjZ0bG8zdWEyaGd3UGRscWpDcGlzcmtzR3pFYVFmaHE4T2VsNlBzaGtJLV9VT0twRkZ3SHR6ZnQ3Q2RZNTk1emoyQjQ1QVNSUjJWd0Z4WG9zQmtZQW1IYzIzZUk?oc=5",
+          "source": "MendoVoz"
+        },
+        {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -74,9 +74,9 @@
           "source": "Canal26"
         },
         {
-          "title": "OEP comienza con el proceso de “reforma electoral” y Ávila también insta a una “reforma constitucional” - eldeber.com.bo",
+          "title": "OEP comienza con el proceso de “reforma electoral” y Ávila también insta a una “reforma constitucional” - El Deber",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVBhVEYxYXVxV0w3MjFRRDBqYjNBMDZpcnlDMkNrV3VhakNPcU41d2Q0U3NOQnUySTNqa0RPMmNsTXNnTFpobm9EVHJzOUphd3RPMlVYbmU1UUdDSVhock5FT0tGUTFwM1kzRDFiTWFlOW50cmZWd0FEVlVPRUNTQVZjQ1lQTExEVG1PUC1ld3dpQ2Rpd0RNQ1VNTXowLVk5cjVmaDhtUXk2WlVVcl9iMUR3?oc=5",
-          "source": "eldeber.com.bo"
+          "source": "El Deber"
         },
         {
           "title": "Reforma electoral: La Libertad Avanza busca reactivar el debate en septiembre, pero no reúne los votos para eliminar las PASO - Canal26",
@@ -89,19 +89,19 @@
           "source": "Canal26"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -126,8 +126,13 @@
       "quote": null,
       "sources": [
         {
-          "title": "Martín Llaryora no se sube al ring de Manuel Adorni y apuesta a otra agenda en el Congreso y en la calle - Letra P",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckhOSld1Z2tXQ3pZZEdob2tnb3FnX29USlVXa3puR2FuQkYyMGdqRS00elR5bEpZMXhiTF9XRjY1MzhBLW0tejk0eFdiSmNtU2hob1l3bUxQR1Qxa2lGMi1sNm5WXzRCVXZ0ZzM4MG0zZW9PYjYyRHJWcDlQWmdYcjBrTEk0X3d1OFhwSlZmckE4OGxXS1U5MTNITkx6RXVrTzhvVVNGNWJuUnBLVlhTNHlabmtBZUtUNHFseTBGZHNKcHY5bVQ5UHBybU9mdG43eDVF0gHYAUFVX3lxTE82c2lWTTIxZm0tMldQT2g3TS1leWlKbGlyeW1WeHpUUGxtTHNyMWZmal9GWnpmbWxxTkc1T0xoaUF4VDl6cmVvWXVnN3lMdTVDWlBKOEJQQnExS01uYW9HaUdaRjVjS1E4Z0puZ3JhNTVOdTdVYi10MUxsRFNneVFLS2xGaS12X2I1V3JMRGJjcXo3UEtncUI1VkdvM2g4bVhwbFhOWDg4U2FZWkZVZGxkWlRNQUY0VzEyX3JYR0hYR3ZaZ0NnS3labTQ4LUh2SzVtV0RTMmV5Tw?oc=5",
+          "title": "El eje Orrego-Santilli ante el nuevo mapa del poder en la Casa Rosada - 0264Noticias",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMm9kdWdSTXJPVDZjdlRPVmIwRm1hTWJndHVJcTJLel9idkc2MVNIRmZaRUs1Uy1PYnZPeEtNeTdNaFpqUVlleHdfVE5wN1VCNG5ZYkRST1pZVTVLdkgwRmZ3VmEtMHB3RFVIZnhjLUt4ZUVhbUo4MTNBVDdid2hvQUkzeUp4Y3JzemhGVVRfT3Q0LS1HYzBhS3RPZ3NQYzVNS0NQYTFnZzdKdzZ2dVkzMXRzN0x2VzVxVThkZVVmbUFVWU5sX0HSAcsBQVVfeXFMT2xLNlhJNjdQb2RaR2ZUcnJvMFhOTmswb2wxTEY3Tk13VzFCY2NIZGY4dzBJbnJaTW9Ub29uZi1oSWdEMXd4bjJmdkJXSTBmNjB4VnlBVl84QWhjWXhzbFF2Uk9BRTFMS1cxRkphUUpodnpTaEFqS054T1pNbnpFZXJDMklaUHk3ajJma0Vjb25NY3l3Sm9PLWI5YW1DQmt5X1JieXJNUV9RTzlCRGZ5bmVTWmV5UjI5bVRpUXlLMnZnc2lPWFhnSk85cnM?oc=5",
+          "source": "0264Noticias"
+        },
+        {
+          "title": "Legislatura: la danza de nombres de La Libertad Avanza para su primera gran batalla en la Ciudad - Letra P",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXM3cmwxdFl6R1JkanNSVXY1aGxBN3NkY29taW5DVnRnMmNacGxDLWc4T2o5SERyU1ByUmUtc1pSLUFYb045VDVKcEpsSlZRRUJfMXVDYnFXRnNXd2hXVkQ0YnA3ZUgwbjkwZkRzRzFCWjVEREhmM0dqZVE5ZHVyRmtBN1FSNzJqeThxNXBwc2o3V09rRGZPbDlNX01ESjZyTGpRaXhaRDhOY0Eydk8tb0luNjMySlREakYtbzBJcnBOZ9IBxwFBVV95cUxQX0FCbGRLLXVHVkxjZjMwWWdRYUlpUkVQNThoLS1yZkpnY0pIemVhYkpYTE9YUS01X3ZhSm13cUJRdXR4UkdWZ3o3M0x0QzhZZDVCQzdiRTF2RlY2NHhyd0Y5UC0wWlVKVm16eTZnZXh3TlpvRkZtVFk0Z1NEdFVtSlJqcHdxZ080ZW52UjhqclRKTzBBdG5KcjZ2dlVQRm90QzZrSkMza2d0SzVDemhjQmlMajZOUWtEREpyZ3h0WGxBVXRtNW1F?oc=5",
           "source": "Letra P"
         },
         {
@@ -136,14 +141,14 @@
           "source": "Filo News"
         },
         {
-          "title": "Legislatura: la danza de nombres de La Libertad Avanza para su primera gran batalla en la Ciudad - Letra P",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXM3cmwxdFl6R1JkanNSVXY1aGxBN3NkY29taW5DVnRnMmNacGxDLWc4T2o5SERyU1ByUmUtc1pSLUFYb045VDVKcEpsSlZRRUJfMXVDYnFXRnNXd2hXVkQ0YnA3ZUgwbjkwZkRzRzFCWjVEREhmM0dqZVE5ZHVyRmtBN1FSNzJqeThxNXBwc2o3V09rRGZPbDlNX01ESjZyTGpRaXhaRDhOY0Eydk8tb0luNjMySlREakYtbzBJcnBOZ9IBxwFBVV95cUxQX0FCbGRLLXVHVkxjZjMwWWdRYUlpUkVQNThoLS1yZkpnY0pIemVhYkpYTE9YUS01X3ZhSm13cUJRdXR4UkdWZ3o3M0x0QzhZZDVCQzdiRTF2RlY2NHhyd0Y5UC0wWlVKVm16eTZnZXh3TlpvRkZtVFk0Z1NEdFVtSlJqcHdxZ080ZW52UjhqclRKTzBBdG5KcjZ2dlVQRm90QzZrSkMza2d0SzVDemhjQmlMajZOUWtEREpyZ3h0WGxBVXRtNW1F?oc=5",
+          "title": "Boleta única y desdoblamiento: la Justicia le reclama definiciones a Axel Kicillof - Letra P",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHBmVGNneFRDcndVSHEyWWxMTmowSVlBZDhRd21QQV83TmFCb2Q2ODRCeEpubUdwLUxxY0NxY2V2MW5vQmF0dDJHTldPUFB5UDRWUGstYTNsTGlFS0ZYbkFJUGRfSURfVXVCN3BaSmZDVTFTZDFEN250X2N1TS1UYUx0S1p4OEJsUFo5TjdqZC1VRTdnWGNlcEdJZUR3ZlBuUUZqdXo4QjJhSWV0Uk1NekJkckxEZFJUN3d5d0ZnbzLSAcYBQVVfeXFMTjMwM2haMFFHUlVjbzNBQk9ZOFRoYTA4R2dFQnF1NEQ0ZEotRm5tOGpzcEFCb1RFZDFuRzJfRDNzd0dtOW5fSll4Ym5IUGZsLVVNOEctWDc0ZEYyUE9lY2pXXy1YcUJZY2FLRTZ1NVVMUTFNVWpxc0Y5eVFhOHNjSTRaQnlPWUZxaGdvbElhakxjZlVueGFrM1VKejJwX2ltUjhyTnNnNE9nOEVPN1dMUXFVblBBMFhVR0NKU1BaYTFHSEY3c0JR?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Funes: Tamara Avila y Maxi Basualdo sueñan con el oro en el Mundial de Kick Boxing - La Capital",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYl9heUQxdG5aSUxQbEMyYlBDdGNPM0NibUxNY3k1bUVsa25vZzVnRXJ6TXVzTkhYcXc2VzNjNFBpSmZFd2Q3N2tuRGJYZEpfRjdZckE1ZnYzOEZzV1N0WXZ2cnhWY0VsTF9Lam1UNGpTRTRuMlV5NXNIVjBCYXllR1RaQUZfZmNCbHhMMTZkVU5zLW84V1VMeFRkb2lRNXdQZkdHakx6XzI3YXlwd1puUFJmbFFoSmhoRElUVHRZRjc2VDV0Q3FrVXdB0gHPAUFVX3lxTFBVTENOaDJQSHd6TjhPR3dJYzluOG0yWVd3cGFrbnZrc0NMV2ZzSFNwNFFWejhjUF9YRVZXVXVHWHJjZl9BaHEyeE9aRGdUbFFYSmRpN2VjNFVhRUtlV25jSWdNUU1XRjZ3OVZzTXkzMnYzUURPQTByOEFUNEtaN0NtelNqazF1WmZRUkszUFl5azhQTXJpbWR6V3hDTHN4RTF2NUVmR29mZDA1cmZzTlJLS1psbF9ydzNWYWZZd2lSSWI4MjlkcXgxWm5xczl3WQ?oc=5",
-          "source": "La Capital"
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
         },
         {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
@@ -151,14 +156,9 @@
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -183,11 +183,6 @@
       "quote": null,
       "sources": [
         {
-          "title": "Martín Llaryora no se sube al ring de Manuel Adorni y apuesta a otra agenda en el Congreso y en la calle - Letra P",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckhOSld1Z2tXQ3pZZEdob2tnb3FnX29USlVXa3puR2FuQkYyMGdqRS00elR5bEpZMXhiTF9XRjY1MzhBLW0tejk0eFdiSmNtU2hob1l3bUxQR1Qxa2lGMi1sNm5WXzRCVXZ0ZzM4MG0zZW9PYjYyRHJWcDlQWmdYcjBrTEk0X3d1OFhwSlZmckE4OGxXS1U5MTNITkx6RXVrTzhvVVNGNWJuUnBLVlhTNHlabmtBZUtUNHFseTBGZHNKcHY5bVQ5UHBybU9mdG43eDVF0gHYAUFVX3lxTE82c2lWTTIxZm0tMldQT2g3TS1leWlKbGlyeW1WeHpUUGxtTHNyMWZmal9GWnpmbWxxTkc1T0xoaUF4VDl6cmVvWXVnN3lMdTVDWlBKOEJQQnExS01uYW9HaUdaRjVjS1E4Z0puZ3JhNTVOdTdVYi10MUxsRFNneVFLS2xGaS12X2I1V3JMRGJjcXo3UEtncUI1VkdvM2g4bVhwbFhOWDg4U2FZWkZVZGxkWlRNQUY0VzEyX3JYR0hYR3ZaZ0NnS3labTQ4LUh2SzVtV0RTMmV5Tw?oc=5",
-          "source": "Letra P"
-        },
-        {
           "title": "Congreso: reconfiguración por el malestar social y el crecimiento de la morosidad - Noticias Urbanas",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkRVSHZDVzIxTjVxcGVKdlYtWThpai1Uck5DbVZvcVhIcFpzcGZvZ256c1ZkaVN3S0F3UXFGdVJmRGhoc29CMGtaLWQ3Z3BVRWw2V3RJNi1GQVR2ZmZ5bE5ONlRCVGVtX0tFUzNDZXBRTUhONS11UW5CYWYyN0g0UnZwOEZPTmZFQ01pejJLcjRDUy1jYXRyUkJvY3B1emZhVkl6QjZPb1BYUEFXTVFMX2RHbkNwUQ?oc=5",
           "source": "Noticias Urbanas"
@@ -198,19 +193,19 @@
           "source": "MendoVoz"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -240,19 +235,19 @@
           "source": "Diario Río Negro"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -287,14 +282,19 @@
           "source": "Perfil"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -319,9 +319,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Reforma electoral: Provincias Unidas defiende las PASO y duda sobre Ficha Limpia - airedesantafe.com.ar",
+          "title": "Reforma electoral: Provincias Unidas defiende las PASO y duda sobre Ficha Limpia - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2ZLaXRocEpTWk42c2hxaHVFY3ZsT0cyanVJbERwNjczRzZGZEpCbE1iSm5GdVkxcXlPT0pIY3MzamI4MHBjbHBuN0hDa2hpOGJtZHRmUlhncjd1eTZuM2NWOGJzMnZ6azBYYTdHVlZSbF9vRWJQaDlidmdyR2czRlRGelFEM3hCZC1YR0k0b2FLVWlqRVUzX2p0S0hDRlZyY2JnU2xPY1BhT3V2cDdVNjhwandieHotWGlVc1pR0gHDAUFVX3lxTE9VeDZqUjVqTTMwSUpSbS1ETW5idUtWd2dzLTN1RE5FWUxqaE82bnN4TUFYQUo2T3U3SUlKM1pqTnpMd1d1eWlpSThBaVpodGxLcXVsUUhLQWtwejNlak00QVRhNHo2a1l6SjJwZWE0OERwMHVDNnpBOEVCaTJ2TzhNRXAwNkkxd2ZLR2ZjcUJXTTlTU0V6YlpHdW9LSVdfaTBSb3BSZkNFMHdZSnNPal96ell4ejl1WGNwTkxyUmpkYUVwUQ?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "PAMI recortó pagos por diálisis: «los pacientes que interrumpen ese tratamiento corren riesgo de vida - LT3",
@@ -339,19 +339,19 @@
           "source": "Quadratín Michoacán"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -381,13 +381,13 @@
           "source": "MendoVoz"
         },
         {
-          "title": "El Panal evalúa reforma electoral: negociación y riesgo Karina - Alfil",
+          "title": "El Panal evalúa reforma electoral: negociación y riesgo Karina - diarioalfil.com.ar",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXA5ek5pR1NmT05JRGR5ekdubVlkZ0t6eGg4SzBRVTFvMmRUQnlRU28tVHdQVzB0YVpZRHVpemxONy1ZZGZpb1MxTjJXUWptWkhEczNqR3BZcFg4VlItQ1l3bEw3dDFEaU5sTGNfLWtqalhBSEtQYk85SkdnaW9CWFRZREEwVFZhdW55UEVobHFiZTRjQ2hmZVppM00tUWk0eldIOXpnZ9IBnwFBVV95cUxPcTZkSXhZLTJWZjM3cGtIWGp1QV8wN1NVVDlRdEVMTmp2ZGwxRDVRRmxjU21JY2lkdi12TWQ1cFQ1RS1ibU41NkhlMXU0R2pneG5VN2liWDBaSFVYaXNLV3hHdjd4aGNmWk11SWlHMjMybjNRQS13UUpTRE0zY2U1UjdFNGw5N0VXSWY0LXRMbFFsdDVnSGEwa0g0R2JKb0k?oc=5",
-          "source": "Alfil"
+          "source": "diarioalfil.com.ar"
         },
         {
-          "title": "Martín Llaryora no se sube al ring de Manuel Adorni y apuesta a otra agenda en el Congreso y en la calle - Letra P",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckhOSld1Z2tXQ3pZZEdob2tnb3FnX29USlVXa3puR2FuQkYyMGdqRS00elR5bEpZMXhiTF9XRjY1MzhBLW0tejk0eFdiSmNtU2hob1l3bUxQR1Qxa2lGMi1sNm5WXzRCVXZ0ZzM4MG0zZW9PYjYyRHJWcDlQWmdYcjBrTEk0X3d1OFhwSlZmckE4OGxXS1U5MTNITkx6RXVrTzhvVVNGNWJuUnBLVlhTNHlabmtBZUtUNHFseTBGZHNKcHY5bVQ5UHBybU9mdG43eDVF0gHYAUFVX3lxTE82c2lWTTIxZm0tMldQT2g3TS1leWlKbGlyeW1WeHpUUGxtTHNyMWZmal9GWnpmbWxxTkc1T0xoaUF4VDl6cmVvWXVnN3lMdTVDWlBKOEJQQnExS01uYW9HaUdaRjVjS1E4Z0puZ3JhNTVOdTdVYi10MUxsRFNneVFLS2xGaS12X2I1V3JMRGJjcXo3UEtncUI1VkdvM2g4bVhwbFhOWDg4U2FZWkZVZGxkWlRNQUY0VzEyX3JYR0hYR3ZaZ0NnS3labTQ4LUh2SzVtV0RTMmV5Tw?oc=5",
+          "title": "La tensión con cuatro gobernadores complica a Diego Santilli y está en riesgo el cuórum en Diputados - Letra P",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEhza19DTTdVdU9UbndFYTRfcmRnOVRtTkFoYVVqMk1mdEFQR0hwaVVNUUI4WS0yR2lvWnFXSmJ1dVlpSzBsWms3X0t4dG5XZUVzRkc3SHdMd0RYdWRmYXJYQnRaSG9JVFNRV2IyYy1HRnpXVzBqWG01RzJ5ak44U1JlTHpFVFhUdDhiWFRXRTJsNnJwVmVST3Y5OV94eGFMQ09yUTdDRzZiemVkZkxvdW5GTWJMWEFXb1hZODlPRm_SAcYBQVVfeXFMTks4SVMwclk4MGp3OFNYMzJVMWZJeHN4REdQMDdTV3U5T2JWQ3FhVzA0YXE0bEl0bzlCaVVycUwyOXVzMF84SGtJQ25nMHMwVlFWSHZZZjRYZHhEZVhrcWpMczlCd0EwQ0dtcEpqRGNub0F2dmVxdmtjdDRIdWZ3LVlrbU9xYTlsVXJGZjVXRnZGYzJjVmY2cS1qaVB2blRkM3JoSm1oeDhxN3V2OHdYanE1d3pDRmRLdzBPQkxMeWRHdnhZYWFn?oc=5",
           "source": "Letra P"
         },
         {
@@ -396,19 +396,19 @@
           "source": "Hoy Día Córdoba"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -448,9 +448,14 @@
           "source": "Infobae"
         },
         {
-          "title": "Gutiérrez reta a Núñez: “Si Feijóo propone dar más diputados al ganador, apliquémoslo ya en Castilla-La Mancha” - La Voz del Tajo",
+          "title": "Gutiérrez reta a Núñez: “Si Feijóo propone dar más diputados al ganador, apliquémoslo ya en Castilla-La Mancha” - lavozdeltajo.com",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbVk0aUtaYmlRV3pwbVNnMmE5QVlIYTlBZS1URm02TFRpcWgzNzJUd1dVVzhIMUNaV1AweXVvWUNjazNVdzQxUjljTi1LWUhuMnJ4RnZKbTNhT0hxV05EXzBzVElQNGk1cTR6bmUxa1R0ekIxcVdiWnF6THUxS3RPeDFEaS1IZTVYbXBVZk9YZ0VNd3FVb3ZNNnZLU1pnUDhfVHNIQ1FLakx1WW1pc0h6TFhUZnRwZ0NtVi1oa3dSOXdYM1Vxc3BrdjZOaE9vcHVYZ3pjNlhoMXZnSE1TNW80QU5CbkVBSTFyV0kwRTN5RnQxdXNM?oc=5",
-          "source": "La Voz del Tajo"
+          "source": "lavozdeltajo.com"
+        },
+        {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
         },
         {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
@@ -458,14 +463,9 @@
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -490,11 +490,6 @@
       "quote": null,
       "sources": [
         {
-          "title": "La oposición articula un frente común que enciende las alarmas del oficialismo en el Congreso - MendoVoz",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYlB3U0V4VUxYMGh6MVI2ZDhhTUlNVmc1aWxsRkM0UnRnUnFGMDFkU1RDb2FNZXFDcHlITkl3SVpYWHBGYnRXc2VocXpjaXgzUTExQ1hCaDhQVFVQTFBkeHpNZXVMdXVRS0x6RVFzWDRCVzJ1YVNWRDhfVlZMOW9oSlVzeHVlanowdlpFeVRwRlZmRHdNdFYxYXZDZW5mb2N1NmlKTlU2UDhseTgyMUUyWG1oY2FhdTN1cGhGY1Uyc3FZZ3hDazl0Z2RKRjc0UVdyVmdBR2dPdktzSmV6akUxNjRHU1BNSHpoOEZyRXNYRThZY1Yw?oc=5",
-          "source": "MendoVoz"
-        },
-        {
           "title": "La oposición dialoguista, con reparos a que la reforma electoral del Gobierno habilite listas colectoras - La Nación",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUEUyT1NwejA3ZmhORzlEMDVkLUJ6dlhnQXJWRk1mbkdaRjRzcFBiaDlwLTF6ZElLNDBXTk9vb3A2VEJ1WnVlYmRzYUNiZ3ZGY04tVnRyS0pNSmdVVU1ITjVaVmlnenpmUThNZy01T0Q0TVZGOHRjeGpPaXdiaks1dkljUDU1M2VkUWljN2ZyWTFYYWJEODFNeThEcThrblduWm5WZUsxT19vRTNfNHhkd0JvME8xenlvY1Fzc3ZtMlhuRTBaTFBzWjZQQzcxcXFsTkVnNG9UOUg2Zw?oc=5",
           "source": "La Nación"
@@ -505,9 +500,19 @@
           "source": "TN"
         },
         {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
+          "title": "Las reacciones opositoras más \"picantes\" a la ley de Reforma Electoral - Perfil",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPV3AtaHh0Q0dFeUMtZUp0SU1rdjZNdkozd2VCMVBiZG1weDhweWtNN3JKRmNMUGNGT2hLc2VCR0JSY1N0MlR5RXVKYmt6UURTVVNLSl8tUzhtMGNFU3N3TDlIWmw1dHhZbWl0N1JOUEJ3RXMwTnFaYjMxSml4SlBpUXZjekExUzJTNjN1TWRyMjd5bnREc19CSXg1V01BU2YxVmpuV0hLa3R5dUxJUmtqejB1NFRXcWpMT1ZmTWZ6ZkNXcDk0UGlMaFVKV0JlRXdobjZBU2c5ZGxrVThwNDZYR0h0cl8teXM1a2RpQW13em5pczBMOTBmNWplc2I4b3doZlg2T2t0RHNWdkdtR3dz0gGUAkFVX3lxTFBTY250LU1ORnZKczFkQXdidkdJTnBqV3FZMGxjM09GODhqMVFLNGtXeTEtTUkzNGthWnp0TnlYam9jemY5LWtIZ3BJaEhxWHVzVWRQdGFOc1dERERGSFZsN1hYVEJ6Z1Uzbm1qWGM1d3NsalB6cWtlMHI5Qk91VFp2ZjhnSEFtWVc1c05LVUJYXy1BaGo0QlZiQUpvZHFNUXdSa1JzWnhwYzRKOXJiRDFxWEp3Rk43aVM3NXJ2amFyVzNlYVdjcXZFRWhCTV8xd1gxU1Z4NjFrVHo1OTdLNThzRUVCMXV5NXFtS1U0NDQ2NGdtNFAtZTRmaW51cWV3ZHgwMmxfeWU2b3FJUFJCTVJBck9YZQ?oc=5",
           "source": "Perfil"
+        },
+        {
+          "title": "Polémica: Martín Menem censuró a un diputado opositor por no tratar de “usted” a Adorni - Diagonales",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0RiRmlxYmFmOHo4OWpwOEVlT2hWV294U2JiRFBwUFB4UkUyOUlmdUw3VUFBczUtSHdCQm95M2pJOTFuZ2ZkM1NJdmpMa1RBb3o2VEJfYWNnLTdiWWdmM2lwNmJCTFVldTZsUXV6R1RYSWFvdC1nSnJ1VTZZVktQOTBoS2UtdndTR2c1My1FZDVWampWNzQ2SEd5LUkyY1B0R1FzbWVVcndJWE5YbHptR2xHUi10RnoyMFFiMGZfWFRJSTIyQWU5aUpuSkJXbkZFemJ2N0ludFczUGVqVXN6bdIB7wFBVV95cUxNODd6UW1zcEhIVVdaNzFUcEItOExOUTZvc01BZGRPSHhqcHNpR3BKUFd0bFNmNUx2V3NSUlhOVDVoQWF1Szl0OFcyczJIajdmTHJFMkpwb2ppU1RLWkMxR3NTWllKdU8xVElVX19BZElSOHVrbm9rZFZ3NVFmM0RDZ1dwRDdaaGU4bk1zZ2kwT1dvQ2toX19INkp6VzRJcDliUGtoQ1NmNFBHVm1Cejl6enhzRDlITy0wU0lsSW9HT1cxT0xUVTNPQzZUUEcwNDRwVEhXZE9HYTRyczRvUzZJOFEyZXB0ejRFNGlMcmxvYw?oc=5",
+          "source": "Diagonales"
+        },
+        {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
         },
         {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
@@ -515,9 +520,9 @@
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -562,14 +567,19 @@
           "source": "Urgente24"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -609,9 +619,14 @@
           "source": "La Nación"
         },
         {
-          "title": "Después de Passalacqua y Rovira, Santilli se reunió con Adrián Nuñez - misionesopina.com.ar",
+          "title": "Después de Passalacqua y Rovira, Santilli se reunió con Adrián Nuñez - MisionesOpina",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzZEaDdhRVhuZ0pHSXZ6YXZTeHdxWGs4RHMtaXR3VXdCOFFuVHZEdFk0YmJBMXBGWnZlOFppRk5DMzUtRUFzb0ZsOE8xVTV3WGE5MFdkekx2OXdkZmtsQzQ1TzFpZjlSaFNRLWtUZGJPazhpMWVFQmFxZ1NjUXM4al9ZTWQwWVlCMXFMX3FSbHFGV1VyekhISTF3Zm1yUC1hUS1Z?oc=5",
-          "source": "misionesopina.com.ar"
+          "source": "MisionesOpina"
+        },
+        {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
         },
         {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
@@ -619,14 +634,9 @@
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -651,9 +661,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Esteban Paulón: “Vamos a estar donde estén los espacios que quieran ganarle a Milei” - Politicadesantafe",
+          "title": "Esteban Paulón: “Vamos a estar donde estén los espacios que quieran ganarle a Milei” - politicadesantafe.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjQ0QlFOVnZMX2IzeGszTFZpTmltQ3pwMHBpYnphTXNBQ0tmbjJMQ0c3UzdJWHlnMkY1NElablJhODJjaU54MjBaX2QxektUVGR5M2Q3R0VuOEFRYW4ta3ZBUjdhb0RhZ1RPUjF4aC0tU0NkNEJ4MWRQV0JHcmNBSzY1MDgtaHByUW9ORzB1UXRpZ2U4RjdPbGNaVkhxRTVuX0hJcUVaYWwtU21sdmNBNVp3?oc=5",
-          "source": "Politicadesantafe"
+          "source": "politicadesantafe.com"
         },
         {
           "title": "Reforma electoral: Paulón advirtió que las listas colectoras “nos hacen volver a la Ley de Lemas” - lt9.com.ar",
@@ -671,19 +681,19 @@
           "source": "El Litoral"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -713,14 +723,19 @@
           "source": "Perfil"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -760,9 +775,14 @@
           "source": "Letra P"
         },
         {
-          "title": "Nueva pulseada en el Congreso: la oposición presiona para tratar Ficha Limpia por fuera de la reforma electoral que impulsa el Gobierno - TN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXVhaXFiU2RXeUk1WENpdjd0aHc4QTRGRkF3UVJWdEdlX1FhMU9oNmQ3Z2lrYXQtdzVWMDRwb2FrMEEwZU55bG1yVEs1eFNnTzVjaFdEd1Y4ZDRRcHZ4N2taSUV1N1RSX3N0RUdTWjhBakc3R3BVUzVaYlh2TVYtR1lmN29iZzhuanJXNEVUNi1BTm12cy1YbDFETjR5X2hRQmYxdDBXSE1vaXJLNy16aUtMWEFISFYwWVE2elFEdFY5VkdHcWF0SjRYZGFRdXp4Vmx2SVBpZE44ZGt6YTNaVVJn0gH2AUFVX3lxTE9zRkI1WTh6eUVYRF9IMnJ1WDlWSWRiUlFKQ2c2b1hvOUVHNjNhejB1Q2MtNHpUTjZEYkpNYzVnQVpuZmlpWUM0X1lwNHVuYzh0RzlRLUdjb0xpUlAteGNjSWhwdkdLODBnSGtqSkRqM1NhV3hkVnl0SUtQVU9UTjFjVW1WNHc2WWxhY0xsRjJ4WkhiQTdEVGtzUGFuS2tDRUtXU2ItMTJxMWRidmY2aUZiNjlZVmRzbEhLYzltSmZWYjNySDhuOTl0R3p3OFBSWjgwRnZsU1hLM0QwS3lsRnV6dG9rdC1WV3VRaWFlWlVjVW1ZSjEyZw?oc=5",
-          "source": "TN"
+          "title": "Pullaro candidato único y con Scaglia de vice, el anhelo de Felipe Michlig para las elecciones de 2027 - Aire de Santa Fe",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT2dXM3FuYzBkbEcxSURJTThlQUhMS0FuMnhNbVpIMWVfMldZT0xxb2FFbTJBMDB5TzYxQ24tUmJGbWhDVHBicUd6bjB2NlZLTTNLSjkxYmZCLTdvSDI5SjREdGw3YkRfSjZGRXlYb1RFTDcwS2lJYmVGSm9XWTdmWDNkTzlGZWlQaTVoMHBfSGRoTjlSdnE4UWNjS01mdkVyZllCWlJsOHZlWDFFaUxfclRjN19kSi1aMFBiazZRNjFjYU05dTBnX0JteEdpUQ?oc=5",
+          "source": "Aire de Santa Fe"
+        },
+        {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
         },
         {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
@@ -770,14 +790,9 @@
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -807,14 +822,14 @@
           "source": "Letra P"
         },
         {
+          "title": "El Panal evalúa reforma electoral: negociación y riesgo Karina - diarioalfil.com.ar",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXA5ek5pR1NmT05JRGR5ekdubVlkZ0t6eGg4SzBRVTFvMmRUQnlRU28tVHdQVzB0YVpZRHVpemxONy1ZZGZpb1MxTjJXUWptWkhEczNqR3BZcFg4VlItQ1l3bEw3dDFEaU5sTGNfLWtqalhBSEtQYk85SkdnaW9CWFRZREEwVFZhdW55UEVobHFiZTRjQ2hmZVppM00tUWk0eldIOXpnZ9IBnwFBVV95cUxPcTZkSXhZLTJWZjM3cGtIWGp1QV8wN1NVVDlRdEVMTmp2ZGwxRDVRRmxjU21JY2lkdi12TWQ1cFQ1RS1ibU41NkhlMXU0R2pneG5VN2liWDBaSFVYaXNLV3hHdjd4aGNmWk11SWlHMjMybjNRQS13UUpTRE0zY2U1UjdFNGw5N0VXSWY0LXRMbFFsdDVnSGEwa0g0R2JKb0k?oc=5",
+          "source": "diarioalfil.com.ar"
+        },
+        {
           "title": "Duras críticas de la oposición al Gobierno por el caso Adorni: “No puede seguir sosteniendo la mentira” - TN",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFJMY0hIWDFnLW1SSlI4dnlQQ0JHTDJNWHBxRnJqT0RDYnBVT21wNHZFQjY3OWxyYmdIU056UzJ5VnlZa052SlRpSHh1Ti1sX1lXREdCZVF1b3d6bkZQaGNUd0ZuNklNVEpZR0h5eWM5UnVBSVYwRUtySUM3Nk5Fc3pJSFJ1WXBjQUZDV3VhSGkwbmY2ZlBtVU1LWmRYaUZTNjNNUU5ieF80X3BJMDRXeDVJNXNmUHYzcmtrWFVQRXFLUGxzZUtvVUZXb0FrLTRRdWdwNnpB0gHqAUFVX3lxTE42SF9KMF9iZ3VRVGNjbjNvcFBsQTFBNVJsQmFEa1NYb0d5R1AtWHYtS00wbzhsMTZOaC16VzhQcGsxTW9ta2ZCTm5zYjRYdWZyMDEzbFlNUU8zLWlkbXRhVzgtdmhMZ21qX3ZzamVkS09uUWxuVEdfS3pscXVTME12V0o2S2JudWs4ZFltczJXanVibW56YW02d2RMVHJSbExRNWh6Z2c1eUxfU05EZC1NM1RxM1FyTC1sMmd4SExORUpoSXFWMHYzR01kMjVfdDJfRnZheVc2WU1GOUNsQm9Bb0xoOUR5RkV4dw?oc=5",
           "source": "TN"
-        },
-        {
-          "title": "El Panal evalúa reforma electoral: negociación y riesgo Karina - Alfil",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXA5ek5pR1NmT05JRGR5ekdubVlkZ0t6eGg4SzBRVTFvMmRUQnlRU28tVHdQVzB0YVpZRHVpemxONy1ZZGZpb1MxTjJXUWptWkhEczNqR3BZcFg4VlItQ1l3bEw3dDFEaU5sTGNfLWtqalhBSEtQYk85SkdnaW9CWFRZREEwVFZhdW55UEVobHFiZTRjQ2hmZVppM00tUWk0eldIOXpnZ9IBnwFBVV95cUxPcTZkSXhZLTJWZjM3cGtIWGp1QV8wN1NVVDlRdEVMTmp2ZGwxRDVRRmxjU21JY2lkdi12TWQ1cFQ1RS1ibU41NkhlMXU0R2pneG5VN2liWDBaSFVYaXNLV3hHdjd4aGNmWk11SWlHMjMybjNRQS13UUpTRE0zY2U1UjdFNGw5N0VXSWY0LXRMbFFsdDVnSGEwa0g0R2JKb0k?oc=5",
-          "source": "Alfil"
         },
         {
           "title": "Alertan que la reforma electoral dejaría solo tres partidos en las presidenciales: hasta LLA quedaría afuera - 0223.com.ar",
@@ -822,19 +837,19 @@
           "source": "0223.com.ar"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -864,9 +879,9 @@
           "source": "Agencia Noticias Argentinas"
         },
         {
-          "title": "Ignacio Torres se reunió con Diego Santilli y se mostró cauto por la reforma electoral - Ambito",
+          "title": "Ignacio Torres se reunió con Diego Santilli y se mostró cauto por la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2hmaGNGLWdZQ2dxUHVuMWJPSllDUVdaYnp4WnFQQkZlaXRCVjJ5MjF1Mzhtdkc3c3g0ZWhieVBqLUJUUUR0Slo3cm1UdGdmQ0s0dlY0XzE2WmNFODhacnZJWUsyLW1adGJpWWxPTmVMSTVsUDkyVUdjRWxNMENaMEVJdE9BbkJVbldKUjNNRXdPQW03OG5iYko5NjhONTREWGRMZFZlTEJWbWdCMlV6VjVJbGgzekVvbnRUR2pJNTFmcm1l0gHKAUFVX3lxTE42RHdfT0NjNWVmU2FjMXdNai1TWVlzUVJ3bTBIZTJBT2lqM0dXdVZBYUVqNEc4YzYweEJmNzBsTU1LUUZ1VFJLVW95ZnQ3Qkt5NUV5cEdraVoxazIzdklBZ2tjb0toa0ZwRVJHaThRNk5PMENWX2xIMk5CTWozOHZ1OEJGZVlWemZDSG9RRjBuWG1uZkRrRUpMZU5LbEpEOWZzcjF2RENXTmhwTXUxNEVodGRBYTdXSENhd01Pd1VaYVhDTTVvSWo2a2c?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Reforma electoral: un gobernador consideró \"un atraso\" las listas colectoras, pero no descartó habilitar adhesiones - Clarin.com",
@@ -879,19 +894,19 @@
           "source": "El Grito del Sur"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
-        },
-        {
-          "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNzZDTVZvanNBeXB2UFB0Y3hlQW9wYkNXMGpURXp4ZnVBWTJUWnVQd2pJY0JlM0NhY1RBUGsxdnFocTF3SGJhU0g1alp3Tk5MVFZEb21rUXI0aGhnc2lrY1JLWk5lTUs5UFBuSXdyZzltbU55cFlPMHhFc2VpYjJtazBTXzd5ekNCSXgyX1lTT1J2UUF3SExzMDdVcTl6aWVtbHpOaHhDQU9iUXhkZlVvZ2lKOGFWbEtFU2JEbktwb0dmN0V6MUV5UzBOdlFDSVVzQWVGcVZMSVVvS3hPSzVBVXZYVllad09UaDZ5ZXFjTURHaXJNbFpMenVRVG1XTTROQVE4Q0dFa1JNUFdYbGxuOVQtelhzUdIBmwJBVV95cUxQNXRfanFtREc2bUFZYjB2c3Myem1Ka0RPeElJa2p1QzA0UEk1YXRHQVdOOVBRQVNXN0w3b0pKTk9KbmJCNFZkQW9QR19WMndzdVhTVGNvWlBqOGtzcW9NOURnd3BqVkF2NDBNc182YUlZS2tFMUdUb05faXI3WEkyeXk1U19QeGdRWjRkcGxEZHFDTzFoZDMtWXBfb192N2RMSXQ0cEdDTGd4czc0ZzNwUXlqVVlxU1pPRmwxVENCbGQyT2FrQ1BzdDkzWGlYd0xUbERmRmJ0VDltbmlDU2NxZUZhVzYtU2g0SG51ZWREM3N4TkFwYlhaLW5OS3VZVGI2ZGwxeXVoMHNSVzFkUUpOWWJpcnVvUU1ET2ZJ?oc=5",
-          "source": "Perfil"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -916,9 +931,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - Tribuna de Periodistas",
+          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - periodicotribuna.com.ar",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkhoMFdiQ2RRd3lxbUNvSDBtQVRfZDQ0RV80LUw1TEpKX1JEd25rVFI3bnQyMkdwUG45dGYxcWxGbjliVW1BSmw1SnpQTjRnRVhjeTgtVWpZMmF5N1hiTElsRXFMTlBWRjdsSEdKeVc0cjlsN1h1a2VkSVdyTFRqTHZFdFdQNk8wLUxBMUo0NDFYTlBzN0ZqNWo2c0VvRC1CbWNTbkUxXzhXNmNwcktDVE9UVHFmdkNTSmZBM0x3YkJEQTBvWkE?oc=5",
-          "source": "Tribuna de Periodistas"
+          "source": "periodicotribuna.com.ar"
         },
         {
           "title": "Los diputados radicales de Provincias Unidas le pidieron al Comité Nacional y a Martín Menem que le saquen el... - Perfil",
@@ -926,14 +941,19 @@
           "source": "Perfil"
         },
         {
+          "title": "Elecciones 2027. En Provincias Unidas le abren la puerta a la suspensión de las Paso - La Voz del Interior",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXotR1VRVFZlUURwbnJlaTk4Mkx4OXItaThvRnByX211TWZ0b2tUM1NLU3hVZWFKUWp4XzRHMDdCb3REWThESERLNUhob2RGUWJnTEI3ZlhKaGhSQUxpbW15eHkxd0VPVzlWWks0TlVmb05ITjItOGtXU1BUd1k2OFBaVGRDSXU2RzVFTUZHRlpCR0p1TlEyLWcya2x0cUU?oc=5",
+          "source": "La Voz del Interior"
+        },
+        {
           "title": "Reforma electoral: partidos provinciales piden suspender las PASO y archivar el debate por las colectoras - Letra P",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2dzck9tbTkxbWpNVC1fZVEyMFVkV2lGRW1IcGJiYVladHdkaEttZzdKTnUyeTZzaDlXWGZYMUJEaElucjVuTjJLRFlxLTdfOGc5RThRVmdlaUJ1QkNTTExVQ0VRR25pb1Ytb3BzZ0IwWEtnWHBSNFQ5bzFYaE1Uc1dFYVNmaGc0VEluSkFid1loVDBCakpLTDB1N18zTTFVX2tDSjkzQVhieGhKSTByZ3lYajhyQ2xvRnVET21uNXFHdG8wVVdKelUxUWdTLWNEeUlDaWhlTExwYmhB0gHiAUFVX3lxTE54MjdxZThWekFNcjNkMVpjRFpET1FKMGJaR3QyNll4dDRmV1JFdkc3QTBpaEQyVWNCR3d2S2Vla09tRTlyZnR2eEdPekxvc0RIT3A0QnB1SkhocmJ6M0pCSWlmZmdVaUhVc2RWcFVhUkZQUmlUdkkwUmRtdTJlcVQtWjNCck1ZbzZ2QXJjZ2lsd1ZRekR6SUtfd25MMVVXQWNEZmM0SDFXR2Z4V3hHYmNJN3VaZmhRa21aM2x3dVNHYjFhdW5GN09sWTdBXzczbjFGaGNDTnB3MEN3bFRLSWRPLVE?oc=5",
           "source": "Letra P"
         },
         {
-          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - Ambito",
+          "title": "Gobernadores dudan de eliminar las PASO y ponen en jaque el futuro de la reforma electoral - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm03VXZxOTNlS1NKcmFzQWxuYmZnelFDaFJzV0hDeV91elAySVlfaWcxak03UnIyaFRRVzJRYm95SDhpLXUyXzdYR1pVUWRiMlNheXU3aXVzNTM4eDJFNXZibmxsOS10N3luQlBOWFBoUm5DVUVlbkpvLWVKX3VEOVpOOGE3Rk5NVjVGay1yNTY1bmxLNEFQMXZLMjN4RFlGckxjZG1HQ0dYM0Zzd2lqR090WjFXbGswcEZZWUV3ZkhzYmNHTkc0etIBzgFBVV95cUxNajFrV3hkN055UEVucl9BdUlibWFWSFVPbUlvLWZnanNmSVJjMDFKV242R3l6QjJpQnNjM2VkX2w5QXBSQUlTbGJoeGZyeXplY2EzNi12c3lDSVhBaGxBX1JvSG9RaFBFd0gtVE5McEtSTzVUMDlFYWtaeFU0SFZELUZJZWxoMFBTd0ZNZG85Z3l2dWg2Y2FNbjA1Y0sxOFBvNm9RbHVBVkkyVUxxcGhUcjJPcmh1U3JZZVY2eWNmMFo2OEVzbG5PQ09tYUduUQ?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -963,9 +983,9 @@
           "source": "Canal Doce Misiones"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1000,8 +1020,8 @@
       "quote": null,
       "sources": [
         {
-          "title": "Le dan una mano a Grecia Quiroz: Movimiento Ciudadano impugna reforma electoral en Michoacán - Infobae",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk9ydmUwcE42YTd5enM1YnAzNU44cDdMNGVFdk5MVXpyWUR5Uk5oeEs0bXJQMTNaNVMtelNPVExMZjUxQmJ1RFFzcklxUXQ5VkZUcXFFU0FMT25HZW40NzhrVUIzX09ic1lfSmpJWFBVdlRkc0V5bHl0WkZLc1E0Vk02YWRyZlNncFVWakhObXl2RjFtUHdEbm4xelhRZWpZNXZVVFk0ZnloeHBRb2JSWXlKTEtpWjJWTXZoVGxLYXNVQWN1cEx2dUxicjdzVVXSAeoBQVVfeXFMUGZlNVlDeU5jcUVORjlzcU5Ub2xFMGpndzZmeF9CWm5tTXNoY1JCNV9fNWpYNDV4a1JLd2JneHZtMm1NNTNJWW9rX0NPVVIwNUNlSEpqRGIxMThKZ19RaktiUHo4UVl0NjJqbXg4b0VnTDJjeS1MRGpVSGlRY2dPbURPVVpTYU5JZ3dsYzZWSENEMkFjNTYzZV9Ba1R4N3pUdXNkSFpkbjZ3N1VYMHk5QWNYeEs2RnNuUkRzLUdCVVFwbWxYUnJsV3FiWGM4d3U2cHoxMVlfTVRVVTJROEhMb015T0twdjdSUF9B?oc=5",
+          "title": "Pablo Gómez cuestiona la autonomía del INE en el marco de la reforma electoral - Infobae",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXlMcXpQczREa05hM1kybkRpUHpJZC1mZnVZYUR5bDdkNG9MX19fbHduejF1Z3JaOWowVnhSU3hjbnVKYmszam5RbnRISFI1LXE2a0NKdm9fWU9KV2NrQVY1U3BLLWVwQWJTOUJFQVU4Z19IZFpGVGx1dmhqQnlZc1dtYXdyYjY4ZEFsUWZBelJNZzhwckhpU05saUJVWEFCZm5pZ1ZrVG90dHVZYTJZNWYwNDRFNGNLU0tNR1BB0gHYAUFVX3lxTFBoeU1RWTItcm5tTnNMU3NmRjBuZE9Kc0hseFFPRmZ0RFFCcTFZeFBBY002YUlwMF91WUhlZ09UTDFIVmdlbGs2blVkcVdaTkQyQjgwajVKQ0ZrTEZmSmQxSnhkQXQzWjRaVDdCWFJMVHM4SzZXR3lHcWJkTnAtNGRnRFR5ZVVMR3BYbTV6b1RGQ0x5Mm5rZU9lTlRoTkc4OGZMU0RPc1ZfbjAzRzVoaU43VklXdTlSWmM5V3V6NkMwTnNkVDczWWxtcThKcFRWWHhaRHE4aWU3RQ?oc=5",
           "source": "Infobae"
         },
         {
@@ -1010,19 +1030,19 @@
           "source": "Infobae"
         },
         {
-          "title": "Lanza PAN campaña contra Morena por impugnar reforma electoral - ADN | A Diario Network",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWh3Zm43OUtsamFQOFROREQycWpWWTlEUmpGTmZVd2UxcEJTTFZTSVYxWlhGSVRJNVJ0THc2MjVTU3F2Q0ZmOUpJMGlUQkVkM0hWT3dPN1NUc0pOZXpBb3Ftc251b3Z1UXpYcERsdUZ2U3hKUTVVV0xjZWY0eXFhd2xwUmFiRXJQSW9NazY1c1FhalJhVmJQYw?oc=5",
-          "source": "ADN | A Diario Network"
+          "title": "MC lanza iniciativa de reforma electoral; voto desde los 16 años y nulidad de elección si asesinan a candidato, entre propuestas - Grupo Animal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vOTYzalhvdGNCUkJWLUZRX0lEdWtjMXYyM01TOWk3TmJYUUh5ODhyNEVjTWhfNUc5Q2l1Z0hYMXhUV1hfcFNDVXF1M2JYOURmeWRuOXhUQXJaY08tOVFaOTV6Mk9UMUx0ajlOYkVDQzc?oc=5",
+          "source": "Grupo Animal"
         },
         {
-          "title": "MC pide a la SCJN impugnar reforma electoral de Michoacán; acusa que frena al Movimiento del Sombrero - El Sol de México",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2M4UFk5dzBPV1BCdUNIdjhkQTFrOTIxTE1LLTBuSzNBMnFWaEl0czgySTl6SmJOVzUtWXdkZnBtcUhKTnBhNDcyUlptUFhndlpJd3BvUm1iYWc3dEszWVdsZFlBdWR0VWZfQ1NMMXNiVzd5NTdqR1NidEw5Y3ZzTHBURFZrY2xmVmpHVmEyN0tKSG9uY3huMGtPTUVQWnNGTFJCR3ZCWkp3bkRCMjlKLUZuOHIyZkoxU3V4d2t2NVpGOFFzaUxWRDY3VDRHNk90VUZ0V1cwdmR4QW1oR2FRdXRNU2I?oc=5",
-          "source": "El Sol de México"
+          "title": "¿Castigo político? Pablo Gómez advierte consecuencias tras rechazo a la reforma electoral - W Radio México",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWNxc0QtTWRjNGZnUWxWTU12ZjdBZXNUMzNMOTk3WGZjZ1ZLYmNtbnVQdFlRNTV4eEQzOTZJNUdsdEhaVDd2ZjRGWFdpbUgta1F2SEwyZ2Y1dmwwSUZ4MkJPYktpbTUzaFVtS1NPX2lULXB0LXRPWi1vVmtMdUgtY0V2MF9MOGY4aF9DWTdvVk5GbThIMUFvbHRLWkt1WHdWbFNsZ1E2UlZTS2FTWFNSUGIzZEZvbExIUmItRHBB?oc=5",
+          "source": "W Radio México"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1067,9 +1087,9 @@
           "source": "NewsDigitales"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1114,9 +1134,9 @@
           "source": "El Sol de México"
         },
         {
-          "title": "Reforma electoral quedó corta, pero da al ITE mayor margen para organizar 2027 - La Jornada de Oriente - Puebla",
+          "title": "Reforma electoral quedó corta, pero da al ITE mayor margen para organizar 2027 - lajornadadeoriente.com.mx",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGNkYm9FVHdadFNXYzhuMGtDaTVLamZsdnJfemdTc0ZoSUtTRWR5RDlDLTBBM2dRaFpjUlNmY2ktZF9hMlY3X2RDcVQwZUgxQlNlQ0s0YmFHSXdnQm5hTFZ5MWUtejE5Wlg4YWdnTnMzZmpZOWRZZ2xWRkVuM2JGd05EWUZMZXVGYWF0dWRNZDBaUWxxTThIX3Z1MVB1Z0FVVFR6VnkzQjNJREFJRGtoUUpEUTZrNjg0cmt5LUlxMEdfcHM?oc=5",
-          "source": "La Jornada de Oriente - Puebla"
+          "source": "lajornadadeoriente.com.mx"
         },
         {
           "title": "Esteban Ramírez se lanza contra diputado PT por votar contra reforma judicial: \"se olvidan quién los apoyó\" - La Silla Rota",
@@ -1124,9 +1144,9 @@
           "source": "La Silla Rota"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1161,14 +1181,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Alineamientos. Dos gobernadores del Norte relanzan su bloque en Diputados y se endurecen con Milei - La Voz del Interior",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2xEWlRlTllvR09oSWFiNzBfLTdWYkszSFBMZXdvZ2VBOG4zT3RZcThaY2UzOWI1WUR2MVJFOXJETV9ONlRaNGd0OHFVaVZ4dEZSYkZNWVd5WWJxTVNWZ3IwUGdTV3FnQ2tFX1p1Nl9wZHR4NXRpaHVHVDBCZFVSN25CY0hVcjJNX2FYdHRpZlpOMlVmcHVhN3ZvT1dEdW91N1VseXNvYUd6eGZhT2dlS2Rn?oc=5",
-          "source": "La Voz del Interior"
-        },
-        {
-          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - Tribuna de Periodistas",
+          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - periodicotribuna.com.ar",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkhoMFdiQ2RRd3lxbUNvSDBtQVRfZDQ0RV80LUw1TEpKX1JEd25rVFI3bnQyMkdwUG45dGYxcWxGbjliVW1BSmw1SnpQTjRnRVhjeTgtVWpZMmF5N1hiTElsRXFMTlBWRjdsSEdKeVc0cjlsN1h1a2VkSVdyTFRqTHZFdFdQNk8wLUxBMUo0NDFYTlBzN0ZqNWo2c0VvRC1CbWNTbkUxXzhXNmNwcktDVE9UVHFmdkNTSmZBM0x3YkJEQTBvWkE?oc=5",
-          "source": "Tribuna de Periodistas"
+          "source": "periodicotribuna.com.ar"
         },
         {
           "title": "Rovira anticipó que la reforma a la Ley de Lemas tendrá “una representatividad enorme” y que Ficha Limpia “cerrará una herida a la ciudadanía” - Canal Doce Misiones",
@@ -1181,9 +1196,14 @@
           "source": "Infobae"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "El gobierno no tiene el apoyo para eliminar las Paso - El Litoral | Novedades de Corrientes",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRS1vTi1pTm1QMFZ0SW40aFJ6WmVKQXlzX2NIUC1rb0tWOEg2OHM3MWI5UUF1MEhfbWhGRXhCY2prcFU0RUlWRnVkVkJRWUtCaTN3M25tTGVENXViTm9ZaHlFeUs2NDQ0cDRESDFrQy0wS2t3T0V0UkZ6VUlNaFBScTVGeVhfV0RobGQtNlQ3WDVRX1h1SFE3dlhsTTk0OW5SeWdwbWl4NDh0RGs?oc=5",
+          "source": "El Litoral | Novedades de Corrientes"
+        },
+        {
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1228,9 +1248,9 @@
           "source": "Agenda Salta"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1280,14 +1300,14 @@
           "source": "El Mexicano"
         },
         {
-          "title": "‘Batean’ reforma electoral de Claudia Sheinbaum: ¿Qué diputados de Morena, PT y Verde votaron en contra? - El Financiero",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVTlmZ0Exd01LSEx5dDduckx0R2RlMTlVX2NoczFqRk5EREhaS1RDMkVMNTVxZXNkb0FZRGdSM1dLdl9FVWk5b1kyWmxaMG9ZaUpDckhqbmtZVU55MkwzQVpsWVFrWG1SVDdpelluMHl3elJIUkk4N0llaUhLQUVEemNTTVFLckdHMVlHNWFkU0tqX2YxNEpHRnViTzR2dnJ3UFV0NVh6QXd6VldaSFZjbzM2Y0lIQzQyeDdWMGhQYzlleTA1ZThWWW12MzR0dDRTS1NMMnN2cjFZbDAzUlYwRkh4U2VVOGhVQnluazhHSml6b3JlTkE?oc=5",
-          "source": "El Financiero"
+          "title": "Informe cuestiona participación política de funcionario - jornada.com.pe",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1MtWmRORGE5eG1qc3gxWnI4dEZrYk5FbmtLdWVGdVRpamlURkNRdTd5bXVRMnRUY01XQnY3OURXV0JHV204dmZXYTdaWU1fLTNWM1hvbG5lV0NmcURfVFMza1I0ZjdJRGJuQ1RNYnM2Y1BWNVlEV3JNSHdZaFZjdFFXWmxlQXlzUHlNSHQ1aTdvM0gzODBtTGtiMUVtbHE5VFYwd084Ty1qSGVEaHUzSmROWQ?oc=5",
+          "source": "jornada.com.pe"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1327,9 +1347,9 @@
           "source": "Canal Doce Misiones"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1369,14 +1389,14 @@
           "source": "Infobae"
         },
         {
-          "title": "Femicidio de Agostina Vega: realizaron una nueva pericia en la casa de Barrelier - Filo News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTc5WDJJVVpzRi1VRjVkYklfaVN0b3ZKRG1MMHlhUXlwLWhHT2dCWDRDYUxFS0Y2ckFlODJMbmloR3FZNVppMjNCbUliUzdoV2lzWUtSVXhITXVaS1E3dzNtVFQ3NHVGX3BoUkFJWWFEUzZNY0NZSmFmMmQ3RjVyaGlsbTNfbmh1ZWZCSlVFakN4MFg0ci1YYnd4R2ZSQklnOVJyZXNIQW9UcHV3V21qZEppVnRrZGVnbUNScw?oc=5",
-          "source": "Filo News"
-        },
-        {
           "title": "Rojo de la Vega presentará reforma electoral: “para salvar nuestra democracia” - Infobae",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlETm1POXd2RTd6cnA0YVZYMVNNTDJkcTg5VEh0T29KRGpqQnR2R2FVbmRWcEhHMnAxNGo3LVR1cjI0Y1VadjdON21NTXFIeVNQb1hPZXZLc2p1UVlqeENqdC1SczlpWGdPRDZqYmVBUHduTkIwZ1lFYVNna1o0dU1saVNPZWd5dU93YktoRHdSYmUxQzE0RjBkclVCMmpzQzhzRjdTR2k3Nk5qejRHSUxHRGllcWg2OXfSAdQBQVVfeXFMT3RyNWRoUmpXS2x5SDQ0SlVjV01hTmFrYV9NN2pDZVh5OEZSUi02RnNXTm1xMzloVHV5UFp6TjAwUTBBQUpCSEZ3VFd2dVdpQWx3VjhkazVUdnBoRWVuN0MtTWk0eGN1OFlST1piQ1QydVVhamJlUk5md2RfNk5vQkZuRENPcXAzbmtvV3VVTXZSUmZvZjU5YmdxdG9qR0diR1RELXM4dzFHRWxBU3BtZGo2QXZiSUxoN1ZnTFZOYTh2YnpNbldjLV9pRFdRLUJZQ2hST0s?oc=5",
           "source": "Infobae"
+        },
+        {
+          "title": "Confían tener reforma electoral en la segunda quincena de julio - El Sol de México",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3g4a3kyNkZIcVp4Ym1aZ1l6eTdQNFc0VmtjU2tDdXJKZTRpdEJBOWd2R2cyaXltYWYza0pMdE9KMV9XSDd3ZXVKN054WHc5b0R6OUZNeHd5NWJ5MVN6MXNDb3NycmtrZ0NhbVp4eXhfM2pxS3NEVXBpdXN4MUhJLUFwRmdkb2YzcnNFZW5FdG5DbXRXUFY4YUlVajVQRElzT094emExX1VMME5qeFFRWk8tT1NTUQ?oc=5",
+          "source": "El Sol de México"
         },
         {
           "title": "Seguirá alianza con la 4T aun con diferendos en la reforma electoral: PVEM - La Jornada",
@@ -1384,9 +1404,9 @@
           "source": "La Jornada"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "La Libertad Avanza sale a buscar 34 votos para aprobar la reforma de Inocencia Fiscal - MendoVoz",
@@ -1488,14 +1508,14 @@
           "source": "Argentina.gob.ar"
         },
         {
-          "title": "Reforma Electoral FRACASÓ en más de un sentido: Alfredo Figueroa - El Financiero",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlVSNG5FR1ZFTkZFenZqZmhXdmVacFRka2J5cHp5YnB3QUpSSHkyQS1ZSDUtekVzQ082R2duWXM4QWN4ZWVBU2doT1dwLUtLN3NzelRGMHZ6SDNXcTZ6MnlnVllEVlBiTGdaLUcxQU5OWmZxUGJKT0RLNzB1VGNaVjNUWWhoemJvazV6bzMta0NUQlZ1aHE5bmwtT2lYZGZMeVNqUUQ0SEtfSTNYcXhMcGtZYnFPeVN1a25JNkVuNnlkenI1RndISjlR?oc=5",
-          "source": "El Financiero"
-        },
-        {
           "title": "Jaldo convocó a su gabinete para fortalecer los lineamientos de gestión - Comunicación Tucumán",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczZ0VFp0QmZuaUU2S2RPWDNON09LR040bEJOSE9mb1doLVJiLVUtOTdDeExHYWtTaE54aF9MTDBlblBoSUg4Rl9aUnNheVFLNVlqRENrVC1wUXlvVTMzQU12N3Q1dWtyX0hTZThIUG9wSVExMnkzak8xY0ZJOUE3ZzJIVmJubTlPYm9menFuV2tqX09kMzVTM2RxYWQzLWxwQ3dZYzFkR01nWWNJRWFTd2VGWExKcTktN1IxMFFTclFMU3c?oc=5",
           "source": "Comunicación Tucumán"
+        },
+        {
+          "title": "Reforma laboral: Agüero defendió los cambios y anticipó su aprobación en el Senado - CHACODIAPORDIA.COM",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmswN19YTnRKR2xTRklFdHpFVUxKdG5EdEdBdVRIS0pUdU8yS19vZ3Q0Ty1EN05YWlpaM2V6dGhqLXowSk1La1Z1UDRyOWVnZTRnZm8zengtZzZiaUx0ai1SLVVxVlM5cWgxY1Voc19BTFZkOEl2WWdxdDhQWXFobHhrbjJpdm5Vc2pPcGtYaHZabm1zeHRuUWVMZ2RwLS1EYWZJVlcwQlRhY2RFd2c?oc=5",
+          "source": "CHACODIAPORDIA.COM"
         },
         {
           "title": "Reforma electoral en el Senado: LLA busca destrabar las PASO con la UCR y el PRO - Radio Facundo Quiroga",
@@ -1582,9 +1602,9 @@
           "source": "El Sol de México"
         },
         {
-          "title": "Reforma electoral quedó corta, pero da al ITE mayor margen para organizar 2027 - La Jornada de Oriente - Puebla",
+          "title": "Reforma electoral quedó corta, pero da al ITE mayor margen para organizar 2027 - lajornadadeoriente.com.mx",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcGNkYm9FVHdadFNXYzhuMGtDaTVLamZsdnJfemdTc0ZoSUtTRWR5RDlDLTBBM2dRaFpjUlNmY2ktZF9hMlY3X2RDcVQwZUgxQlNlQ0s0YmFHSXdnQm5hTFZ5MWUtejE5Wlg4YWdnTnMzZmpZOWRZZ2xWRkVuM2JGd05EWUZMZXVGYWF0dWRNZDBaUWxxTThIX3Z1MVB1Z0FVVFR6VnkzQjNJREFJRGtoUUpEUTZrNjg0cmt5LUlxMEdfcHM?oc=5",
-          "source": "La Jornada de Oriente - Puebla"
+          "source": "lajornadadeoriente.com.mx"
         },
         {
           "title": "Esteban Ramírez se lanza contra diputado PT por votar contra reforma judicial: \"se olvidan quién los apoyó\" - La Silla Rota",
@@ -1681,9 +1701,14 @@
       "quote": null,
       "sources": [
         {
-          "title": "Reforma electoral: la derogación de las PASO dependerá de provincias que las usan en sus elecciones locales - Ambito",
+          "title": "Reforma electoral: la derogación de las PASO dependerá de provincias que las usan en sus elecciones locales - ambito.com",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZGU5aU56Rmh4SE9RY0ZGdXo1ZnVLbDJMMEE1X1p0NHNibEtfbTFyRUUtbXF6eE12QkVTR1ItS3lNZE5qeFQ5bmxoZFB6RFAyQ2h2b2Fxa3lmLVRQLUpSemRiS1N3ZGVlQnF0TnVteXNkazhjRGVHV05Tc01FajFRenVOeHJsQzhfaTZCZEpVRDRjZFllSkRCemQ4TW11YTdFTFV3Q1ZULTk1UHB1ZzlJc21VcThsaTE3TW1CZnZqbmVVVmFSTHZkSWdxNzdrb2Z0LWlxdDJXZDlMYnhHU2fSAeMBQVVfeXFMTXZrenMxR2lzRnYtWFVORC0xVmJGVWNVV0RwVlVfMDYwMnRwVFVhbHBTcnFvQ0NIV2NkSXU5cjFHRGpuZjBTaG10RHNzaEkwekZtOWdvSXRWTTVxU3hQdGRkNG1oZENSSEZLbEh3YzlOOThVTnFpR25lYWpUenFZY1pVc2FRdnpCd1QtTnJrbHg0NEJNYXE0ZmdqOHVZMlliRm5tU3RaVnFUM0MtMnNnbFp1QldXazEyT0RWVGlTaFZxVUlwVWNrNmJnbU11U0FxdEZUZm1yQ3BaWWRDVElPUnZSR2M?oc=5",
-          "source": "Ambito"
+          "source": "ambito.com"
+        },
+        {
+          "title": "Las 3 noticias para empezar el día: lo que necesitás saber este jueves 27 de agosto - Aire de Santa Fe",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUlNNjFQeDB3NzBuVktsc21sWWc1bzVtNXVTQ0VJT0xyNXh1ZnhhTlVXZnRDZVpsRGhRN3pNd3NVMXVpVU1FaUxmRVRYR3RBZnVSTms4ZXVkb0NpTHR6dkNtQ1QxcTZPWm43Z2hobHlvRkdZcW1uTE9kRnhIZ2NjRjJWcWZXZjFMMGtPYmpEeEJ0bFVocmNOY1J6VElJZGEwMGNhUFlmdDhHZWswNXY0N3l1NDByMFFxMk5FNm9WN2oxdw?oc=5",
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "Los senadores radicales resisten las colectoras y frenan la reforma electoral en el Senado - Política Córdoba Verdad",
@@ -1691,14 +1716,9 @@
           "source": "Política Córdoba Verdad"
         },
         {
-          "title": "Odiamos (a veces) a los radicales: quiénes son los senadores que resisten la Reforma Electoral de Milei - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEZvTTZiaTdPbktiTjFDVHZnR1o2MlRrT0lOaFBWQWZYVWZBSVV4d05rRDFsN3hSb1FVTTBRU0Y5ZkdwOFJQOTIzNWw5am55cHhLQjJtRFQ1anZ3WkF6YVlfNGlkQnFFU3g1d0JUNGpnZllFUjhtVXp0RDk1RXdWa09FYTY2QjlGbDhkVTlxSXFDOHFTZFJjY1pNa0dOYmtXZTNMam5pN0JWRk9LQVEtVFFSa3lhcGxMeXVSMzc2OFNPdjVjQlHSAcsBQVVfeXFMUFJQSUJFMmoxUVhtQnhzTm83eHhfN0dVQ3FtQmN1ODFTMW4weXA4bFZ0UXUxMHgxZ3pDMlNEZWJlSllPSmNnZnJMaWgyeTFqMFpRRDVYNm1MMzhVQ2s5NE41RlhlQ2N4cWZIdnVXUmRPbldxajNCSkYzWFo2bTdTNC12RkNHbnJFdTVTNEZlSUJBVmJvbGVTSW9RTm1JQzk4NzJUdVZzSl9CLXhqUUs1amxqMGtmU184Mkl4RDhRVzdVOGNiZS1DTko4c1E?oc=5",
-          "source": "Perfil"
-        },
-        {
-          "title": "El Senado empezará el debate de la reforma electoral con las PASO y Ficha Limpia como ejes de la disputa - Diario Primera Linea",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSk51NWVzTTQxTUE0SXBBWDA1aHdLck10aUV0WlZPOXFUbkpad0UycWdMWXZMbEl3R2pBYXplaThuZW9vbS13QW4xUWV1NlB1REUyc0FDYlNjRWF1U2tnejZ3c3IwaEI2Z051OEZ6UTVDaTEtYmJVMm9ocng1NHRzODBoYnB4MHlEZ0FXTWQ5MUhsV2JGMG9pYm5OUThpdjR1WlRLUGE0MnJOaF9ub25Delk3bEpiZGZ0eWYtWkJ2d3MwT0hKakV2blM1OFdsNGVtZzZSa1V3?oc=5",
-          "source": "Diario Primera Linea"
+          "title": "El voto chaqueño como factor decisivo para la reforma electoral - Diario Norte",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkhpazFTYnNOTjExNzFxTFlLdXhnZ25aWlJ3c3dxazhoOFVpeENBY1lTUUFuUmRxRGNxdllzMmdTcTlTY1ZHeXl5NEZaRnlOTjhVY09pTGlOVzc0VEtVQ0pRUEtpOWJ0RlIxMjRQSFpkbTJvZnY5V2x0TjI5LXR0eEthVjZMQ256TGF2UGI0X1JtN3paMVpmNGdqWFdhbmc?oc=5",
+          "source": "Diario Norte"
         },
         {
           "title": "Reforma electoral en el Senado: LLA busca destrabar las PASO con la UCR y el PRO - Radio Facundo Quiroga",
@@ -1748,9 +1768,9 @@
           "source": "Primera Fuente"
         },
         {
-          "title": "Santilli fortalece vínculos con Catamarca en medio de las negociaciones por la reforma electoral - elesquiu.com",
+          "title": "Santilli fortalece vínculos con Catamarca en medio de las negociaciones por la reforma electoral - El Esquiu",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX3J4MEoyOUxvVmFYMzhkVE5LcHlQZ0J0QkNqQUtMa3JJVkVvd1dPQU9KLTg5RU5tUDliQ2lOR0laaTFWYWpkb3pNcUdQaXdud1lfRVpud3JCMjhscDNZbWROQ1NObkpoTW5zNnhwNU9uenFsa0pYTU5JbllubmxfM0o4Vkg1TW91MXRzb2hKTkZHVWhzS1A2NmdqTXdQc2ttc0VGR3BTczlrbWVXR2M1bzAzSFdFd0RrLTBQZGhoSXNMaU5iTDc5V2QzWlozVXRTb2tBZlNNRlZzOVBzSDdmSkJGVVE4enM?oc=5",
-          "source": "elesquiu.com"
+          "source": "El Esquiu"
         },
         {
           "title": "Desesperado: Santilli salió a buscar respaldo de los gobernadores para avanzar con la reforma electoral de Milei - Política Argentina",
@@ -1800,9 +1820,9 @@
           "source": "Canal26"
         },
         {
-          "title": "OEP comienza con el proceso de “reforma electoral” y Ávila también insta a una “reforma constitucional” - eldeber.com.bo",
+          "title": "OEP comienza con el proceso de “reforma electoral” y Ávila también insta a una “reforma constitucional” - El Deber",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVBhVEYxYXVxV0w3MjFRRDBqYjNBMDZpcnlDMkNrV3VhakNPcU41d2Q0U3NOQnUySTNqa0RPMmNsTXNnTFpobm9EVHJzOUphd3RPMlVYbmU1UUdDSVhock5FT0tGUTFwM1kzRDFiTWFlOW50cmZWd0FEVlVPRUNTQVZjQ1lQTExEVG1PUC1ld3dpQ2Rpd0RNQ1VNTXowLVk5cjVmaDhtUXk2WlVVcl9iMUR3?oc=5",
-          "source": "eldeber.com.bo"
+          "source": "El Deber"
         },
         {
           "title": "Reforma electoral: La Libertad Avanza busca reactivar el debate en septiembre, pero no reúne los votos para eliminar las PASO - Canal26",
@@ -1857,9 +1877,9 @@
           "source": "Argentina.gob.ar"
         },
         {
-          "title": "“Esta será una gestión de puertas abiertas” - elesquiu.com",
+          "title": "“Esta será una gestión de puertas abiertas” - El Esquiu",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMW9UcFhab0p0VWVSMnJwa1o0Q1VZelN1a1ZKd0czdTJJVlZGQW9NeHE0YUZya21EQzJCUEVTQTBYX2tPNDI0N2NwUmpfQXNBVHNRLW1PWi1vT2UxUkh3ZU5JcVh6V2htdFVUcExhemJMWmJyZmtwOVlPR3VoSWp6N1EwMGVTMTBneThGbnBBTWRvNkhhUVdxOUNrN0c?oc=5",
-          "source": "elesquiu.com"
+          "source": "El Esquiu"
         },
         {
           "title": "La agenda de interés de Milei llega a las\ncomisiones de Diputados y Senadores - El Litoral",
@@ -1929,9 +1949,9 @@
           "source": "Clarin.com"
         },
         {
-          "title": "Cornejo estuvo junto a Milei en Tucumán, pero no hubo negociaciones respecto de la reforma electoral - Los Andes",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEVlcmxBRWtiUGgya1dpTEtFeHB3ZUlzQlNRV29YMm1VbHF5U3BPenJyYWtjZ2Vtc21rOXNOZ1VpekJvVU5kMXFjOTB3WWhsN0xNb0RhS25SVEtTcFJaQjFQWHhwMnB3VmJTazNIWTJubUtVQjB6NUo0SGx6VnRsOE40cU4xb2FZcEJ6eHNYTzk4cnE5d21yZUJiVHBvT2dNMWJRMlFxMkk0UG9kaDB1V1RRR1lDTm1ZX3hicHZHREZaNXlXZTZZXzlmR3EtbkZtcDhN?oc=5",
-          "source": "Los Andes"
+          "title": "Javier Milei presenta su plan financiero y la reforma electoral en el contexto del Día de la Independencia - Contexto Tucumán",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdU5qcVg3Qkp1b3ZaYmpsZHR1YlhwOHFDX2tnSWxuX0dZQ3k5TUVnd000QUlnSUpnLXh2Y2g1VWM1NmJpZC1RMmFZUHBDai1nODNXV2dyYktLN0lTVldvbUlyN3M1RmM5SkNSdzN4ZG5iRkZtOFRSWmNtajJvTVpCQ3FwZUxMYVNZNUhFbUNfN2hUWFJVUW9YQms3ZVFNU01fMGw0Ul9WX2ZlRWU5T1U2T3BlMjlVb2w3S0c3TUlOTW5LMGxDTG5mb0ZYUTZRS1FDRUhkQlVUa3BTbEJUc3VYcGdubUpRM3VPVU9B?oc=5",
+          "source": "Contexto Tucumán"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -1956,9 +1976,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Cambio de reglas para las elecciones: las 5 claves del Código Electoral de Santa Fe rumbo a 2027 - airedesantafe.com.ar",
+          "title": "Cambio de reglas para las elecciones: las 5 claves del Código Electoral de Santa Fe rumbo a 2027 - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXpXRjIwX2pMenB5ZThqY0Fha2oyaW5rMHJweklRc2dHcHdsS2ZZUk5GMzBvZTlrajROejdpeWNKNmFLbTl3SVhYUWRvQjNZanhaY291ZTl3bWI2THgzTnlUQkFGaEltN0JON2dOc3d2NGtSRWtUOXlZdFVvOXJWM29UT2gxYjhhZ3c5Q2FSYzZWRFI1N0JSTFRXSWp2dTNlcVhtakZfb1VLaWlmSldlRlpnVC1wTlRJRXNRVTA1bGhZX2RzUEU3SXhEMlk?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "El nuevo estilo del Gobierno, la reforma electoral rumbo a 2027 y los motivos detrás de los cambios de la mesa política - Infobae",
@@ -1966,14 +1986,14 @@
           "source": "Infobae"
         },
         {
-          "title": "Reforma electoral en Santa Fe: Diputados debate hoy los cambios que regirán las elecciones de 2027 - airedesantafe.com.ar",
+          "title": "Reforma electoral en Santa Fe: Diputados debate hoy los cambios que regirán las elecciones de 2027 - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc19PMXlVZDJrRE5GT3ZuLUJMci04d0tWeXBzNFlWZDNTMlFkNDV6ZjlNbjJWX2c3RUd0LVFGZlFrVzQtVzlORjFxbjFhdmhDbmczUjBqMFdMUzFQamxSV1V0d3JQZldBYzJYV005UFB3ZTNFdFEtT0E3NHpuQkh5MEo0ZDhpdWVqNnlKZ0JxZGIxeHdSa2VKaDhTM1hUS2VFd1dKVjRYYUhJOUItVG5mNTF6V2tCMTRkSVB4cEZOSFZ1ZnRfUEttc3RoZmhINHFXYUtsT1E3Qlo?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
-          "title": "La silla vacía para quien falte: así será el debate obligatorio para gobernador en Santa Fe - airedesantafe.com.ar",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDFOZXJBV0xyU05BXzdEVng0OE5mX2U1LWR5RGd4Ymlxck03UG8zblFpTldIa2pKMlJRZlZoUHF6Vm9qeXRIUFo1NGE1Y095X2dEUWRwUmJDSW43dTdMYWRyT0owQ2I4QzdhWXV0bUx3c1hNWXBKeGdGcGtmdGVRblBYX1JlMndaS3RWbVYtaklLQVN2aUd0eC0zODY0blh2ZXhoVW9OYXpTR3lOZEpsRWt0MUxMZmIwaGpVdnZMTTNlZWlvOXo4UjVOUXBvc1dPeFk3Y3NheXA?oc=5",
-          "source": "airedesantafe.com.ar"
+          "title": "Avanza la reforma electoral en Santa Fe: media sanción en Diputados, con incorporaciones novedosas - Aire de Santa Fe",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUpnUUU5SjRtdFZNNXNfeGg0N3VWLTJUeUppRnpUSEczU3QzQ29ZNHR0aXpoU1pEdy1VRnJqUkxtYXpQcDRwc19rNlJSdlN5VTlkRUU4T2Z2LWdRYUlRczN1RXI2MElHUGNadkJfclVxenEweTNFdjNieERFOGh1TDd3YVBqa2dCeFdfUG0xLWRGLVhaRDRaa1R3R3AwSEg1N2hIUTZnaF91X1NtOC10dzl6b3Rfbm92TFV5NHFtcDlIaUQ3T25IMUZFeXF0QTI0VXc?oc=5",
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "El peronismo dialoguista pone límites a la reforma electoral de la Casa Rosada - Visión Política",
@@ -1986,9 +2006,9 @@
           "source": "Clarin.com"
         },
         {
-          "title": "Cornejo estuvo junto a Milei en Tucumán, pero no hubo negociaciones respecto de la reforma electoral - Los Andes",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEVlcmxBRWtiUGgya1dpTEtFeHB3ZUlzQlNRV29YMm1VbHF5U3BPenJyYWtjZ2Vtc21rOXNOZ1VpekJvVU5kMXFjOTB3WWhsN0xNb0RhS25SVEtTcFJaQjFQWHhwMnB3VmJTazNIWTJubUtVQjB6NUo0SGx6VnRsOE40cU4xb2FZcEJ6eHNYTzk4cnE5d21yZUJiVHBvT2dNMWJRMlFxMkk0UG9kaDB1V1RRR1lDTm1ZX3hicHZHREZaNXlXZTZZXzlmR3EtbkZtcDhN?oc=5",
-          "source": "Los Andes"
+          "title": "Javier Milei presenta su plan financiero y la reforma electoral en el contexto del Día de la Independencia - Contexto Tucumán",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdU5qcVg3Qkp1b3ZaYmpsZHR1YlhwOHFDX2tnSWxuX0dZQ3k5TUVnd000QUlnSUpnLXh2Y2g1VWM1NmJpZC1RMmFZUHBDai1nODNXV2dyYktLN0lTVldvbUlyN3M1RmM5SkNSdzN4ZG5iRkZtOFRSWmNtajJvTVpCQ3FwZUxMYVNZNUhFbUNfN2hUWFJVUW9YQms3ZVFNU01fMGw0Ul9WX2ZlRWU5T1U2T3BlMjlVb2w3S0c3TUlOTW5LMGxDTG5mb0ZYUTZRS1FDRUhkQlVUa3BTbEJUc3VYcGdubUpRM3VPVU9B?oc=5",
+          "source": "Contexto Tucumán"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -2028,9 +2048,9 @@
           "source": "Tendencia de Noticias"
         },
         {
-          "title": "\"Queremos una reforma electoral con consenso\", afirmó Acevedo - losprimeros.tv",
+          "title": "\"Queremos una reforma electoral con consenso\", afirmó Acevedo - Los Primeros TV",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3c2MDFlYUdsM0NQT1FkSkpBVExyWEZkVEdGb3FQMG5wZWpwZkJOX2FXZ0tHcURtNEZsMGhUU19NbFVDS3R3MDNXaURFZ1dLXy04M0pBcGk4UU1CNHlWQ29OZEdJakFPcUpEa2lxaG9mUW9YUFFQYk43dER6bzZIVzU3NmpITEs5aHdWX082SGR1aWlqZ21pU1RTY2xLMTZRNW5PX1N3VzI3Z2NGM0RYVHptNDlaaGE5SUJIdEVDX2k?oc=5",
-          "source": "losprimeros.tv"
+          "source": "Los Primeros TV"
         },
         {
           "title": "El peronismo dialoguista pone límites a la reforma electoral de la Casa Rosada - Visión Política",
@@ -2043,9 +2063,9 @@
           "source": "Clarin.com"
         },
         {
-          "title": "Cornejo estuvo junto a Milei en Tucumán, pero no hubo negociaciones respecto de la reforma electoral - Los Andes",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEVlcmxBRWtiUGgya1dpTEtFeHB3ZUlzQlNRV29YMm1VbHF5U3BPenJyYWtjZ2Vtc21rOXNOZ1VpekJvVU5kMXFjOTB3WWhsN0xNb0RhS25SVEtTcFJaQjFQWHhwMnB3VmJTazNIWTJubUtVQjB6NUo0SGx6VnRsOE40cU4xb2FZcEJ6eHNYTzk4cnE5d21yZUJiVHBvT2dNMWJRMlFxMkk0UG9kaDB1V1RRR1lDTm1ZX3hicHZHREZaNXlXZTZZXzlmR3EtbkZtcDhN?oc=5",
-          "source": "Los Andes"
+          "title": "Javier Milei presenta su plan financiero y la reforma electoral en el contexto del Día de la Independencia - Contexto Tucumán",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdU5qcVg3Qkp1b3ZaYmpsZHR1YlhwOHFDX2tnSWxuX0dZQ3k5TUVnd000QUlnSUpnLXh2Y2g1VWM1NmJpZC1RMmFZUHBDai1nODNXV2dyYktLN0lTVldvbUlyN3M1RmM5SkNSdzN4ZG5iRkZtOFRSWmNtajJvTVpCQ3FwZUxMYVNZNUhFbUNfN2hUWFJVUW9YQms3ZVFNU01fMGw0Ul9WX2ZlRWU5T1U2T3BlMjlVb2w3S0c3TUlOTW5LMGxDTG5mb0ZYUTZRS1FDRUhkQlVUa3BTbEJUc3VYcGdubUpRM3VPVU9B?oc=5",
+          "source": "Contexto Tucumán"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -2080,9 +2100,9 @@
           "source": "MendoVoz"
         },
         {
-          "title": "La Coalición Cívica rechazó la reforma electoral del Gobierno - Diario Hoy En la noticia",
+          "title": "La Coalición Cívica rechazó la reforma electoral del Gobierno - diariohoy.net",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWRPckllajN4UHlJVzVrc25QdmhZWno5S19adG5tTDVCRVVlQUIxUFV3TWM3NHoxWHJWYjA5SjkzS1FRX1dSZTdmU1NSUE15WmYyUG85di1ROFJpclB6OE5XaE9Qb0ViTTJZcWpuXzhJeUh1OHZvenJ6M0p3aHdIR2xYYUNCQXc3eXFVN1I4MUdfN0JleENCWFMzMDlYUUJE0gGmAUFVX3lxTE1DRy0wc3RqS08wdVJXcEdXZ1hOMHdQbzE1Y2Vualg5eF92bW1Vc2RKTWFaX3RhMVhqd3g3ZHhjWGczbTEwRnBtREV2X05weHA5V0ZxYlFkMFVRejFIRjNWUDY0QjhrMFB1b0JENDJXY3Q2TXNoU2UteTBfZzVJWTkwWF81dzRtQ21SckdOQ2ZSYmdueTM4VUVTWk5aaUw1RlpOb21waEE?oc=5",
-          "source": "Diario Hoy En la noticia"
+          "source": "diariohoy.net"
         },
         {
           "title": "La reforma política de Milei abre una negociación difícil: Diputados quieren Ficha Limpia \"aparte\" y complican... - Perfil",
@@ -2122,9 +2142,9 @@
           "source": "Redacción Rosario"
         },
         {
-          "title": "Voces de la reforma electoral: qué dicen oficialismo y oposición sobre las nuevas reglas de juego en Santa Fe - airedesantafe.com.ar",
+          "title": "Voces de la reforma electoral: qué dicen oficialismo y oposición sobre las nuevas reglas de juego en Santa Fe - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUUNFNUEwcWp4dEMwRlRkRV93UXlVOXJNZ0lrWGlROXpkMHp3NzdXYXU3d0gyYThvUXllQWpmclNHMlpZdnJpOFNNV2tnQVZXOXhVTFZQSTlTS0FmYU9GT2RDcUtTbzJkdjliczFLTXQxR0I4WkktNy1ZYk95R0p4STdDMXZlVXBIcDhKb0ZrMWQ2NzljSjFNWHhoRjlDeXZTNFhDdVNva2lEUjViVHZOUzBQX1hRTWVGWG9pSGNUbVJSNTV5OFJEbmVyMUlXc3JoYkJudW5Tc2ViVVk?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "El Frente Amplio por la Soberanía presentó su proyecto de reforma electoral - pausa.com.ar",
@@ -2147,9 +2167,9 @@
           "source": "MendoVoz"
         },
         {
-          "title": "La Coalición Cívica rechazó la reforma electoral del Gobierno - Diario Hoy En la noticia",
+          "title": "La Coalición Cívica rechazó la reforma electoral del Gobierno - diariohoy.net",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWRPckllajN4UHlJVzVrc25QdmhZWno5S19adG5tTDVCRVVlQUIxUFV3TWM3NHoxWHJWYjA5SjkzS1FRX1dSZTdmU1NSUE15WmYyUG85di1ROFJpclB6OE5XaE9Qb0ViTTJZcWpuXzhJeUh1OHZvenJ6M0p3aHdIR2xYYUNCQXc3eXFVN1I4MUdfN0JleENCWFMzMDlYUUJE0gGmAUFVX3lxTE1DRy0wc3RqS08wdVJXcEdXZ1hOMHdQbzE1Y2Vualg5eF92bW1Vc2RKTWFaX3RhMVhqd3g3ZHhjWGczbTEwRnBtREV2X05weHA5V0ZxYlFkMFVRejFIRjNWUDY0QjhrMFB1b0JENDJXY3Q2TXNoU2UteTBfZzVJWTkwWF81dzRtQ21SckdOQ2ZSYmdueTM4VUVTWk5aaUw1RlpOb21waEE?oc=5",
-          "source": "Diario Hoy En la noticia"
+          "source": "diariohoy.net"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -2184,19 +2204,19 @@
           "source": "Clarin.com"
         },
         {
-          "title": "Pichetto aseguró que Villarruel será candidata presidencial en 2027 y la ubicó como opositora a Milei - Filo News",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUEtUc2dMSHBLb1JwNlQ5bUtlTWJYYzZ5Vy1EQVMza1ZFUGZManpIS2JUTENtZE1zM2ltbm1xcmRpbGR0VkdNeFl3dkZqQ2pTaVQ5SlFjenB4OVhKZzdUamVaSmpBdnVSSUlYM3NnOGFsYldmZ2stRXpwMi0ySC1wcTJBbmpJbVBkNzJQMDhtclA2RmFuWkY0VHFTakFEaGp4SjFMd2Y5ckhNVTZvYVNtVTRsMDZnczVjeU0xdENkcEp3MTBBc1p5LU1oRkFVT1hpTmR0R2NXSHRyUQ?oc=5",
-          "source": "Filo News"
+          "title": "Pichetto le marcó la cancha al Gobierno por las PASO: “Hay sectores que no van a permitir su eliminación” - La Gaceta",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2xJT3RuTUluaURGdlVpSkVzSXJjSVF4Ym13djU2Y0d3UUt3SHFfRldNdEkzRXpwcXhqc19PT0JkS1FZeTQwbi1XdmRRemRuTEZXcTJDMzluTEZrQkhEbGxWYl9pTGdRZ3BGRjhMT2EtQTYxd3hxQnYwSjFiaExUaU1TR1RZdVduNlhwX3Jhekxtajg3SXpDeTdBOWdIUGNiQjZBS0lHZXVHYmM0cmo4bm9YZzJSZHU0bTdQWldPdUtmRnEtSXB0MmJlU1ZlSkJ1YkRV0gHYAUFVX3lxTE1aZ01wUk0zUUM0bXR1OEZjMGVHeVVITzMwZTVrS2JyeDNMUjROQVVVem14eENUN0NSQUdRV0w0X0puTm55eGJqVGEwa2pkbjNtNDEwVmJNbVFwMy1LOHhKc2t6M3VUQ180b3lRNHVBak03YWlKSXRtZDlOcWFkeHlmaGlHYjdpTWJUaS1oR2Jwb1psWVhYakRBWEhJal9CakpWMzVFZ1V0SDhVTWdDN0NRVjhsRTRWUVg1Zjh3V1hqS2NCWHFsQWcyeHdYMnRKc3d5V2J5aVFuYw?oc=5",
+          "source": "La Gaceta"
         },
         {
-          "title": "El Plan B de Pichetto: fracaso en la negociación por las PASO y rearmado del centro - Mundo Gremial",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGhXTl9tYVIwVkhuWml0c0dsdXV5YWxkZXI4UEF5eW5xYURsd0dNY0dISTJndERNWkpaaXIzejJSSEdUOV9HdUVLdmoyNUMyS1A5enU2alE1YnEySHdmSkZuNDktLXBNNVdmaHE5RHF4akRLbkNPR2RTeUhzMHBnMDM4M25GeW40c0pCTnBMa0pZWFFpWEoxem53djhzb210RXhEcC03WE1PNlNk?oc=5",
-          "source": "Mundo Gremial"
+          "title": "Pichetto cuestionó la intención del Gobierno de eliminar las PASO: “Hay sectores que no lo van a permitir” - La Nación",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTIwSmFFdHZjX25QNzJqV0QtWTk5QldyNmJCYmVFYjd6dkozNEctdUJGSVBrOVpyWWJsbS1FRGRkcnV3MlBDYmdnVjdQYzNsdDFXR3BxNXd3Vm9XRjlfVHVrNERxWmNFMzJDM2hnY1YyM2tWNF94OUl2bHltSV9ja2pWeGs5WmtCbmdWYkFGM2h6eWZhejlYeExPRmI1d0dWY1RqVnhSN0JkWVQzOHVQckloUGRSS0F2ZDVxNV9iRDdjYzJnSWJ6ZA?oc=5",
+          "source": "La Nación"
         },
         {
-          "title": "Pedro Muñoz participó de un encuentro federal y analizó los principales debates de Santa Cruz - lavanguardianoticias.com.ar",
+          "title": "Pedro Muñoz participó de un encuentro federal y analizó los principales debates de Santa Cruz - La Vanguardia Noticias - Caleta Olivia",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSkoxaS1uVWUxZkVXOWVOUTJFcDVURzBWbDdWOXVBX2JBU1ZYaTZhbE5KVFNmT2NsU0tQSDB6MU51Q3lSbXlWRTF0bzBHWmMyOXFOWFE4Z1dqSU1yQkVES1kxblQyM0Z5VXRaQWdNY1BjUEd0YmYzTXgtVjlNbnFpeHJvTkFEMVRlSlFDOUNxVFRHc3JvSUNra01RWEtvS0ltaUtxcjI3Z2ZKc2ZkdDY4WUJKMTRJY3p0NXZRODlqcXY3WUt6T0YtWTh4c0JIOXpTb0JGUXJQaTBtTFJW?oc=5",
-          "source": "lavanguardianoticias.com.ar"
+          "source": "La Vanguardia Noticias - Caleta Olivia"
         },
         {
           "title": "Milei busca reformar el régimen electoral antes de ir por un nuevo mandato presidencial - EL PAÍS",
@@ -2226,9 +2246,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - Tribuna de Periodistas",
+          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - periodicotribuna.com.ar",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkhoMFdiQ2RRd3lxbUNvSDBtQVRfZDQ0RV80LUw1TEpKX1JEd25rVFI3bnQyMkdwUG45dGYxcWxGbjliVW1BSmw1SnpQTjRnRVhjeTgtVWpZMmF5N1hiTElsRXFMTlBWRjdsSEdKeVc0cjlsN1h1a2VkSVdyTFRqTHZFdFdQNk8wLUxBMUo0NDFYTlBzN0ZqNWo2c0VvRC1CbWNTbkUxXzhXNmNwcktDVE9UVHFmdkNTSmZBM0x3YkJEQTBvWkE?oc=5",
-          "source": "Tribuna de Periodistas"
+          "source": "periodicotribuna.com.ar"
         },
         {
           "title": "Críticas en el peronismo y la oposición a la reforma electoral de Milei: “Nuestra respuesta debe ser más democracia” - Infobae",
@@ -2241,14 +2261,14 @@
           "source": "La Voz del Interior"
         },
         {
-          "title": "Nicolás Massot: “Me gustaría un candidato como Frigerio o Llaryora para 2027” - Perfil",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUpxaURVb0h2dW9JTUdISExMWDR4SFRaal83cVd3MldLczBrNVhNVXA2THJtRk84VUt5QVZDREI4Tm5yTFIyYkZWSkV5c3o4blh5YlVsbXRQX3pPREI0SmUxOWg4Sy1nX09UdlBrZmxUaWl0QXpkTzBpRTVxeWtXT3JCdmV6TERFSXE5QmdydkdoRUItanh1U0F4ZHRPNzQ0S1piN3ROU3BEbzdXVjVST2NBRVZKLUZSQVFKb1VFTks5eWU3dUYwUThB0gHPAUFVX3lxTFB6U3VEVTU5SGRFYjdyRmlKUzZiVDZpMDl6UllwR3hTRVhwTFM1c1pRQTAwM3NrTVFhUi0yc0JlMkRwalJMeXhHNW5zZnJiYi01LWFPalV6T01PU3NsRUF1MElESUJVajJuYm5YUXJuOWhXMEJ4WW9nbG9PN2x4NjdERGgtVk9fTG1CLVJJTGpWNkFjN1AyQ1VhSUEyY1FMd25PcVFQR3RSM1kxTkl2M1YyNUZ5S1BXTk1TMWJ0MDE1Wm1zSWEwbGJUVUtDYUdqUQ?oc=5",
-          "source": "Perfil"
+          "title": "Pichetto le marcó la cancha al Gobierno por las PASO: “Hay sectores que no van a permitir su eliminación” - La Gaceta",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2xJT3RuTUluaURGdlVpSkVzSXJjSVF4Ym13djU2Y0d3UUt3SHFfRldNdEkzRXpwcXhqc19PT0JkS1FZeTQwbi1XdmRRemRuTEZXcTJDMzluTEZrQkhEbGxWYl9pTGdRZ3BGRjhMT2EtQTYxd3hxQnYwSjFiaExUaU1TR1RZdVduNlhwX3Jhekxtajg3SXpDeTdBOWdIUGNiQjZBS0lHZXVHYmM0cmo4bm9YZzJSZHU0bTdQWldPdUtmRnEtSXB0MmJlU1ZlSkJ1YkRV0gHYAUFVX3lxTE1aZ01wUk0zUUM0bXR1OEZjMGVHeVVITzMwZTVrS2JyeDNMUjROQVVVem14eENUN0NSQUdRV0w0X0puTm55eGJqVGEwa2pkbjNtNDEwVmJNbVFwMy1LOHhKc2t6M3VUQ180b3lRNHVBak03YWlKSXRtZDlOcWFkeHlmaGlHYjdpTWJUaS1oR2Jwb1psWVhYakRBWEhJal9CakpWMzVFZ1V0SDhVTWdDN0NRVjhsRTRWUVg1Zjh3V1hqS2NCWHFsQWcyeHdYMnRKc3d5V2J5aVFuYw?oc=5",
+          "source": "La Gaceta"
         },
         {
-          "title": "Pedro Muñoz participó de un encuentro federal y analizó los principales debates de Santa Cruz - lavanguardianoticias.com.ar",
+          "title": "Pedro Muñoz participó de un encuentro federal y analizó los principales debates de Santa Cruz - La Vanguardia Noticias - Caleta Olivia",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSkoxaS1uVWUxZkVXOWVOUTJFcDVURzBWbDdWOXVBX2JBU1ZYaTZhbE5KVFNmT2NsU0tQSDB6MU51Q3lSbXlWRTF0bzBHWmMyOXFOWFE4Z1dqSU1yQkVES1kxblQyM0Z5VXRaQWdNY1BjUEd0YmYzTXgtVjlNbnFpeHJvTkFEMVRlSlFDOUNxVFRHc3JvSUNra01RWEtvS0ltaUtxcjI3Z2ZKc2ZkdDY4WUJKMTRJY3p0NXZRODlqcXY3WUt6T0YtWTh4c0JIOXpTb0JGUXJQaTBtTFJW?oc=5",
-          "source": "lavanguardianoticias.com.ar"
+          "source": "La Vanguardia Noticias - Caleta Olivia"
         },
         {
           "title": "El tenso ida y vuelta entre Bullrich y Pichetto: \"No hay que subestimar\" - Diario Mendoza Today",
@@ -2340,11 +2360,6 @@
           "source": "Diario El Día de La Plata"
         },
         {
-          "title": "Eduardo Falcone volvió a cuestionar la reforma política y afirmó que “no le importa a nadie” - El Intransigente",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc21zQVFQeDlmZ0NPVGZiazBxTTg1cXkxaXl5aFY1d3BFb09tMzFMY0s4RGtyZ1UwZW5nblFYaUlSVElPTVVpSl85dTFfZ2dHeC1MTjllUUhMaUJwNTI5Xy1ic1o0VEVxYzRWOEg2d2NkaExKdTBjS2JnZElvVmFUWERCZ0hGWHFMY055YzhCc2I3ZVRoYlV2NzU5Y05nLS1NREh4WlRwRWlDajZmN2RkSXo3U09WYUtxNXBVYTJ2WWVReUo5NVE?oc=5",
-          "source": "El Intransigente"
-        },
-        {
           "title": "El Congreso tiene los votos asegurados para interpelar a Manuel Adorni, pero no para removerlo - El Observador",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWZNLUxmV0MzN2FoTzI0NDVHR3dOdHpJRWlJRnJoTjJQWTlTR2R1cUlMUUxMWEJXdnEzcXpSbWVfV3lFdlRXQUkxUjdwYlFDbFZTcnhTYmhoM2JLRnFFUGFWeDdJV3l1ZHdiVDZweExwX3MtQkpzRTdWUGI0VGNEVVRpYmZkRzVTc21TXy03U1h4YmRCZXlzenM2dFRqV1llOFdfWFp4R2tFV3lINXBuYzNyOHVyZjdkazJMV3h6VG9oREZia2cwV3pYYVAzZ1J1aXFlLUtsYnPSAd4BQVVfeXFMTzIyUS1yLXpSLTZtX0Uwd3BoMWNWaWFLXzR4TVBYOXg3c3JvZzVtY2tpQmtZRF9VWk9hMXBHVng4REFxTXpMZGpnRDdjdWpwUDJ2ODBScHpsYm52QUZKYUJpdDUxaXNveW9GXzZ0UEt0VlcxdVMyWUhxNWFMQzJTRjNoa2YxaHJVbllPWkJQWHhTcnBsZ2R0Smc4N09YZThXTk84cmxPVXltanE3ZUVmMWNvN0E4aXBCVmk5SU9sZUx5YmNoaGR4dmplMDhwOFVzaGV2T29WcUpPeHk0WjdB?oc=5",
           "source": "El Observador"
@@ -2397,9 +2412,9 @@
           "source": "po.org.ar"
         },
         {
-          "title": "El Partido Obrero rechazó la reforma electoral de Milei y alertó por una “proscripción” de la izquierda - infobrisas.com",
+          "title": "El Partido Obrero rechazó la reforma electoral de Milei y alertó por una “proscripción” de la izquierda - Infobrisas",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZmQwN2dWaE9jbUhoWS1QMTBNOFhCcGFIck94Q1VHZHRpc25USG8yS2xSekRoRUQ2eGhvbjNoSTI3dldjZko3NFNOajlJM3E1TmxhcUwzNlpLV0ZmTmZaQWVIM25vQnNUSHI5Q0ltWVFHbUlNMldrUXhYalBhWFk1T0VGM1RseF9nV3B1MkpyTHFNbzg0Q0x2aEptRHpwLVFIdEE1TU5XUEtsQWg4cWxWeEFocFhUeW5Qc3dzRGNnakstNUFxX05BeXV5bUhfSEZEQUctQndYWVRkU1ZsRHdWSHJKNFp2UDdDTjdn0gHwAUFVX3lxTE9fNlBjcWpwVW5xSjhnWjJIcGhyYWpGZk9TVHpHT2U3Z1QzRnpDaTIzRVVNMXU3YTBVemRLRVR6dk5rdW1QZG1qaVJDVm1XZlZjM0N1SFV4Mk16SjlYLXIxeGpsbzBLUVBvWTUyYm9FbnkyZzdwOWFJOHdrNkNvdWNGaG1udFNuV09iQWw5VW8wSk44emtYeHdHUVNEc3lfVUdDTFB6Rm85SkxEbFJYRVdaYWZhNmZOUG00dmtlMGtMQW40ZE5mckRSbm8yTV9PTlBnZmU2QVlzU09tTFNBZXFjakJzaGxPblVRVGx5UHRSLQ?oc=5",
-          "source": "infobrisas.com"
+          "source": "Infobrisas"
         },
         {
           "title": "Diputados trata la reforma del sistema electoral de Salta - El Tribuno",
@@ -2511,9 +2526,9 @@
           "source": "Diario de Cuyo"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "Cuáles son los proyectos frenados en el Senado a la espera de acuerdos - El Litoral",
@@ -2558,9 +2573,9 @@
           "source": "Diario de Cuyo"
         },
         {
-          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - Rosario3",
+          "title": "La reforma del Banco Central obtuvo dictamen en Diputados y el oficialismo busca llevarla al recinto el 26 ... - rosario3.com",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZTd3d0hhbVRiQ3VoYlEyMjhUdXpOd3Z6enVhY3BMT2diSlp1TUdBN3BRb2U2aVlvQXBxRWFaTi1vVTFMWkZzRzA4ejFEZHFNVndSVllsZFJQNVNhSmNWSlBoVlJ3RTNSVWJaNE00Y2xtMnQxM19FN3p5LV9EY0tyZUMySWc2Tk1NN2ZDRFhjWGdIVnpHOVViYXUwVVFUbFRJdVEwcXdpb0wtVU5fZnRqekU1MEN2cC0tYlBrY1owMjlaT1dDRURUdmU5R2dJVlp5NXNLSzZIQkJMRjQ3T3lPczJYRHF5ZHRpQlAwLV9VRUxiRk9fQzZMbmVuc1Z1Z0RVVXNsM1JrTE8wVm_SAYsCQVVfeXFMT2U3d3dIYW1UYkN1aGJRMjI4VHV6Tnd2enp1YWNwTE9nYkpadU1HQTdwUW9lNmlZb0FwcUVhWk4tb1UxTFpGc0cwOHoxRGRxTVZ3UlZZbGRSUDVTYUpjVkpQaFZSd0UzUlViWjRNNGNsbTJ0MTNfRTd6eS1fRGNLcmVDMklnNk5NTTdmQ0RYY1hnSFZ6RzlVYmF1MFVRVGxUSXVRMHF3aW9MLVVOX2Z0anpFNTBDdnAtLWJQa2NaMDI5Wk9XQ0VEVHZlOUdnSVZaeTVzS0s2SEJCTEY0N095T3MyWERxeWR0aUJQMC1fVUVMYkZPX0M2TG5lbnNWdWdEVVVzbDNSa0xPMFZv?oc=5",
-          "source": "Rosario3"
+          "source": "rosario3.com"
         },
         {
           "title": "Cuáles son los proyectos frenados en el Senado a la espera de acuerdos - El Litoral",
@@ -2600,14 +2615,14 @@
           "source": "La Nación"
         },
         {
-          "title": "400 personas reunidas en comités. Del apoyo a Myriam Bregman a la pelea por un partido de la nueva clase trabajadora - laizquierdadiario.com",
+          "title": "400 personas reunidas en comités. Del apoyo a Myriam Bregman a la pelea por un partido de la nueva clase trabajadora - La Izquierda Diario",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXYwUjhTQk1qTUt0ck15bEJ6YmZsVTZ0OEdIMm9lSzlncEJzeDUxNG9aTmV2UDU3bW54V1dZUnFJMk1ZWnczaGZuVWhqN2hJa0JPaUd2SHpKYlhKLV9GQTJVc09OZFgtNDV6NGVaRDUxVmlkaXVpT1FrUEloUUp5OWtoV2s0MTJ5aDJlRlU3OW5PTlN5TXl5eGF1MnM1WkZPMFBZR3k3dEc1ZXZUUVJrczFpYllXMHRPNkctYms5R0NEQlFKUDFqMjJYb9IB0wFBVV95cUxQb1BwODZNT2RIb3V5N0UxLWpaemppYjdrMXJUTnV1Mi1FdXgzV19ZREpJbWFtSjJiWUdRWk9pM0I1R0xEbGpja1dQVWs5bHZGbG5tcDJ6V2gwME92QUlObUxFOV8tNkc4N2daNEtzaGdIZjlnQkxJOVBLbUlxX1lpV2lxTDN3NXpnUnRiTEZKcVpCcGNRUUJ0X01qeExvNVJYZlUtdGozd1AwZnhHaENhY1NWZE1kZTNkcjhlVEo3YXRPR2tUY0RSd1A1N0hhR0l3ZHZv?oc=5",
-          "source": "laizquierdadiario.com"
+          "source": "La Izquierda Diario"
         },
         {
-          "title": "Myriam Bregman en Política a las Brasas: \"Hay poca credibilidad en la dirigencia política\" - todojujuy.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkRQbVdveS1yOXRZSjZUWnhMeE5sM3hOdzZMZnRDX2czaFlSZlpZSEVFTnMwd1Y3c0dNYlBXTG5nNkZLdEw0RWVHODBRanJYOEI1d09HMUJNcV9NLXFjdHBhWEFJQjExc3RsSXo4eVBXd0cxZ3hKWGRJcDBfa0pESERsalRuVGlnWThyMW1JSFdKY0p6UWhILUV4cmlrTko5bWduUGJpTjNEc2xMa3pfT0FUXzA4bHRmZEpz0gHAAUFVX3lxTFB0TGxYTHF3a19UTkxIVnVHOGRSX3A1NHpIdUd6M1dwbjFGblV5SUpSTFJDZ0hUSjFlUlVxNGNRbFVod3h3SVZNTGNUd3dLQmFhS1pMcl9pNkk2dEFmQVk4VTBLckVTSDVWbGJsdTFwV0s4ZGtWSXJkZW9DT2RHUE9McnA4SGE4X21yNEFSLVpVZ01iTGtnTDY4VmhyZmtkZEI0Vkk4N1JVUGhEZ2d0RXlneVJIXzdON2tEdDcxMEwwSg?oc=5",
-          "source": "todojujuy.com"
+          "title": "Las reacciones opositoras más \"picantes\" a la ley de Reforma Electoral - Perfil",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPV3AtaHh0Q0dFeUMtZUp0SU1rdjZNdkozd2VCMVBiZG1weDhweWtNN3JKRmNMUGNGT2hLc2VCR0JSY1N0MlR5RXVKYmt6UURTVVNLSl8tUzhtMGNFU3N3TDlIWmw1dHhZbWl0N1JOUEJ3RXMwTnFaYjMxSml4SlBpUXZjekExUzJTNjN1TWRyMjd5bnREc19CSXg1V01BU2YxVmpuV0hLa3R5dUxJUmtqejB1NFRXcWpMT1ZmTWZ6ZkNXcDk0UGlMaFVKV0JlRXdobjZBU2c5ZGxrVThwNDZYR0h0cl8teXM1a2RpQW13em5pczBMOTBmNWplc2I4b3doZlg2T2t0RHNWdkdtR3dz0gGUAkFVX3lxTFBTY250LU1ORnZKczFkQXdidkdJTnBqV3FZMGxjM09GODhqMVFLNGtXeTEtTUkzNGthWnp0TnlYam9jemY5LWtIZ3BJaEhxWHVzVWRQdGFOc1dERERGSFZsN1hYVEJ6Z1Uzbm1qWGM1d3NsalB6cWtlMHI5Qk91VFp2ZjhnSEFtWVc1c05LVUJYXy1BaGo0QlZiQUpvZHFNUXdSa1JzWnhwYzRKOXJiRDFxWEp3Rk43aVM3NXJ2amFyVzNlYVdjcXZFRWhCTV8xd1gxU1Z4NjFrVHo1OTdLNThzRUVCMXV5NXFtS1U0NDQ2NGdtNFAtZTRmaW51cWV3ZHgwMmxfeWU2b3FJUFJCTVJBck9YZQ?oc=5",
+          "source": "Perfil"
         },
         {
           "title": "El Frente de Izquierda relanzó su campaña con actos simultáneos y “sinceró” la pelea por más diputados - Infobae",
@@ -2714,9 +2729,9 @@
           "source": "Diario Río Negro"
         },
         {
-          "title": "Eliminar las PASO, la primera gran misión de Santilli al frente de la Jefatura de Gabinete - La Gaceta",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFRzOWtmemlGbFdGdUJTcXBPMk1udnhUdkFCZHhZM1E3ZzdQS1dEeFAzTUlfeVlVSzZLaG15am1UcjIzQnQ1eXQ3cG5lVFpnVEN6Y2NYdmlMQUp5TFBTUDZUV1ZNb0tOM2p6WVRJckdKU2l0LVhSQTdCRHl2dXkzakJjYWMxSDhhU3R4LXJNZkVQckdrTmt5ZExEWVNmclNtOHd1bTVWQ01iNlhIa0hoazlTaW1NZ1lsbDlzVWRKbk9QTWfSAcgBQVVfeXFMT2hhMDJkb2pEN0M2WGs0ZkhCQmtISlBqMzVDbGdVRFFySlNjZVpUcUQzNkp2WExwUmFpOUJUeWthNkpMZlBEanJCUWFTU2dHd1A3VlRMbjNONGlqbTB2d1dGOElIQURQTWRPV24zakhVeXBTR2VGdzFKSjR3WHpKbGNjaVI5NTlMZEV4TlNIQzVwUlpqcXIwdGs0YWJ2M0tGQm1xREYtR0ZBM1JINmFrMUhsbzRtQWF5RkI3c2Mtc0FPanNsZkdiVTM?oc=5",
-          "source": "La Gaceta"
+          "title": "La oposición impulsa un nuevo proyecto de Ficha Limpia y busca destrabar el debate en el Congreso - BAE Negocios",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTJCZzY3dEJ2TUhTRGdUS1hUUWw5Wi1DZkJyclBNZHpYVUZFRmFkZ0N0cVhscmJsYXI3V1h2cVgxTTJUME1qQ3BLUThBQmRfV3BYdm5YTy1sNmZKcENoaE54QVMtWko3SDNUM1RienFyZ1AwQlY5c21sSlI3ZzZfSFdXQ1FTbWZYeVBEUHN0d09PM0NST3FweTZra05Wc25qdVgxT2lhQjhnMkswNzlWX1lpOWRPdm9fcUtFaHV1WHhSYk5pUmtHLWwzQkpKcXBP0gHKAUFVX3lxTE41RGpPUXZlWHNLMWZTRFd2RDJGeWVSOWZOenpDaTllYnhIUGcxQ0sxUEZ6aWt1dDEzM19iU1BtZWpYdGJBTVJiMzlOcUZyLXExQlZraWNSME54MW1iLXZpV1VwYWQyQ0c1b1pmUlhjUGZSTS1NOHpCTGgtdTNMQzdDZVpCZ0VzcTJjdl9keXFEdUhrMWtLUXBlWkJQRmRYSEZXSHNfQlNQOFhKenE3SGJoaDNCSnR2SDZHX1hXc1VWVC1aX2lZV2NIUmc?oc=5",
+          "source": "BAE Negocios"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -2751,14 +2766,14 @@
           "source": "Filo News"
         },
         {
-          "title": "Marcela Pagano expuso a Bettina Angeletti y denunció una “fachada” para hacer negocios con YPF - El Intransigente",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTZ5TGc2R2JyTWRUV1l1M2FmVkltOWV6eVVyMmVBR1AwRjhaR0lQYnFvYTBzREJ6YVpuOE5fd0RnSjY0TV9xQVBBcDl1dWRSLU84aDZRbmtReENhNlVIQnhjNmI4UUdWNnpoSE5XbVdjTFJyODYyemNURWlrMU5NUHFlRERwOGV2R0lMUVRjNFdWbGU1cWY1RjdWS1Z6WHZwNy1SeGpGY1R3VjFiYk1Ud3IyTzV0ckkyNHZxVDF4eXdlZTB1QmE4Sg?oc=5",
-          "source": "El Intransigente"
+          "title": "Nueva denuncia penal contra Manuel Adorni - diariohoy.net",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUMyZkxVbVpkNExuc1BVOF9PUUtZdnNwSm5xR3JqRkpGLTZ3d0dqWnkxMmwwdnBnaDhkd01WMlhJVW9TM3RDZG90TmRDbWhENFdtZFA2WXpzMXIzY0QyQTU4cEJxbzFEOENmS25DMFY0dmdSVTBqR0xnbF9FQ0g4ckxpa3p4QdIBiwFBVV95cUxOMWZQbTlPSVFKeTU4dG5GNlJqRmpibmt1WElPYkxFTkM2dDdLTXVVYV93U2oxZV9IbDFvLWw3YXlkcHYyMGdWOVRldl9DN0hwS0F4UU5icUJWLVp6SzlnM1hkLXFtcFpGR1VMQjEtZkV0Q1RxOTJvbzR5N2I0MW1BcDdIYmIxck9Ja05n?oc=5",
+          "source": "diariohoy.net"
         },
         {
-          "title": "Nueva denuncia penal contra Manuel Adorni - Diario Hoy En la noticia",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUMyZkxVbVpkNExuc1BVOF9PUUtZdnNwSm5xR3JqRkpGLTZ3d0dqWnkxMmwwdnBnaDhkd01WMlhJVW9TM3RDZG90TmRDbWhENFdtZFA2WXpzMXIzY0QyQTU4cEJxbzFEOENmS25DMFY0dmdSVTBqR0xnbF9FQ0g4ckxpa3p4QdIBiwFBVV95cUxOMWZQbTlPSVFKeTU4dG5GNlJqRmpibmt1WElPYkxFTkM2dDdLTXVVYV93U2oxZV9IbDFvLWw3YXlkcHYyMGdWOVRldl9DN0hwS0F4UU5icUJWLVp6SzlnM1hkLXFtcFpGR1VMQjEtZkV0Q1RxOTJvbzR5N2I0MW1BcDdIYmIxck9Ja05n?oc=5",
-          "source": "Diario Hoy En la noticia"
+          "title": "\"Su tarea es defensiva\": Miguel Ángel Pichetto aseguró que Macri busca evitar que LLA \"absorba\" al PRO - El Intransigente",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnJZdFE0REtrSzNiSkJob0ZsVUhlV2RaU3lpNDdVZURWc0Zhb0MzOE8wRjZGVHFkeERtSW43THo5Q1pBbVktanRaVnBrNFZoWTdrbXVpV2xyR1Vad3JvcEh1cFVYendfVG1MSi0yV2xYR2g1Q2g4WUVZMTNpd1ZMNE4ycU12MUdhRFJWOEZDQ0JKT0hodWFuTHlIMVRJZmpvVHo1LWlBYkQ0X2lBcEhhc3QxR1NONEFvbFBIWk96WUlZV3ZIbG1zZHctZWpkZnM?oc=5",
+          "source": "El Intransigente"
         },
         {
           "title": "Claudia Balagué : “Una ley electoral a medida de un frente político no me parece serio” - Radio UNR",
@@ -2766,14 +2781,14 @@
           "source": "Radio UNR"
         },
         {
-          "title": "Reforma electoral: impulsan la pérdida de banca para los “tránsfugas” políticos - Politicadesantafe",
+          "title": "Reforma electoral: impulsan la pérdida de banca para los “tránsfugas” políticos - politicadesantafe.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3FvVGp3YmRLbENsMXZfd19JSlNlNjRWS2VuMHZqa0hNMXlxREN2RXk0MVdIdWlNMzAzVlc5SlROM2t4ZXpVOEVXWDJTM25qN3Q5WDdHNUd5QzZ2T2xwd2l0cTl1UkkxaHV1cFJLQ1ptYWpBSjc3NWgwSTZNaGwtVTBmZmxTLWFaLWVuVk5wcFhGUVFXLXNzSjBYM3hYS3pzODA2RTBtVEVxcFU?oc=5",
-          "source": "Politicadesantafe"
+          "source": "politicadesantafe.com"
         },
         {
-          "title": "Agustina Álvarez aseguró que ahora es libertaria por “coherencia” - Informate Salta",
+          "title": "Agustina Álvarez aseguró que ahora es libertaria por “coherencia” - informatesalta.com.ar",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYXpNT1M2QmtwRHZLbVd4RmoyNHVCSzZIX0ZvU2VkMHhGQlRCYWJDZnJ5SHpXaEc5aXB5UmFFaGNpVGxqemlsWGF4VFgtZ1oxVzJvQU8yS1kydGIyelc5aW5Ha3JDeXFYdERySXdvZW1mdmxKeFlwUUJ6eWoyaFZ2dkZ2UUdXUV80T1RCYmJPekVKMTZQTERzTXN2c1NtTlJYVWxudzZpcjJlNXZsOC1RUzNDZFhJbVFuWFFFRVNIUHEzWV9CcGVvbF930gHYAUFVX3lxTE5OblhsTDg3N3R5T3hqVUdSam9EeVJtU1VDY3RicENpWXk3Z1BQay1Ec2I1SmpNaFN3QXZ2c0gxeGFnMFpHay1oNmdBV29vYndNQ0IwVFVPZFNtUVFCMG9NR3drelh4eTU3TDZpc2lwY3N4WmJqV1ZnNDNzRHlnaFczVWZaWEpSMURsY2Y5YU1qVmhpdEFkX1l0MzdOTGhaTDRnVGs1ampINmtIQVhMVnVUNURRYVZhaVVZU1RiSXVhWFlxMGwtNW1icTRfMDdpalp0QWNuOHpnYw?oc=5",
-          "source": "Informate Salta"
+          "source": "informatesalta.com.ar"
         },
         {
           "title": "Diputados retoma este jueves el debate por la reforma electoral en Santa Fe - Cadena 3 Argentina",
@@ -2798,9 +2813,14 @@
       "quote": null,
       "sources": [
         {
-          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - Tribuna de Periodistas",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkhoMFdiQ2RRd3lxbUNvSDBtQVRfZDQ0RV80LUw1TEpKX1JEd25rVFI3bnQyMkdwUG45dGYxcWxGbjliVW1BSmw1SnpQTjRnRVhjeTgtVWpZMmF5N1hiTElsRXFMTlBWRjdsSEdKeVc0cjlsN1h1a2VkSVdyTFRqTHZFdFdQNk8wLUxBMUo0NDFYTlBzN0ZqNWo2c0VvRC1CbWNTbkUxXzhXNmNwcktDVE9UVHFmdkNTSmZBM0x3YkJEQTBvWkE?oc=5",
-          "source": "Tribuna de Periodistas"
+          "title": "La oposición articula un frente común que enciende las alarmas del oficialismo en el Congreso - MendoVoz",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYlB3U0V4VUxYMGh6MVI2ZDhhTUlNVmc1aWxsRkM0UnRnUnFGMDFkU1RDb2FNZXFDcHlITkl3SVpYWHBGYnRXc2VocXpjaXgzUTExQ1hCaDhQVFVQTFBkeHpNZXVMdXVRS0x6RVFzWDRCVzJ1YVNWRDhfVlZMOW9oSlVzeHVlanowdlpFeVRwRlZmRHdNdFYxYXZDZW5mb2N1NmlKTlU2UDhseTgyMUUyWG1oY2FhdTN1cGhGY1Uyc3FZZ3hDazl0Z2RKRjc0UVdyVmdBR2dPdktzSmV6akUxNjRHU1BNSHpoOEZyRXNYRThZY1Yw?oc=5",
+          "source": "MendoVoz"
+        },
+        {
+          "title": "Tras la foto de la oposición unida, ¿qué posibilidades tiene un “frente anti Milei“ en el Congreso? - Agencia Noticias Argentinas",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbElnNk4zamdUMno3TElwbFQzaTY4ZEZ3NXZZSzNNczJTMHhfYmFxeG1qSTRsYktjcUpWZnlVSktVYTRfN3RScnVLUHBQazYzT05CYXIwdzlTeUJKNHNBMURoUzdXdUN3OXNHTkM0bW5hdnZxN0VweUZlQ055dnNrVnVHenR0SWdNUlYxTTVFTVdJMlJmMHV1bU03UE1jbktucnFyazN1aUtFODJlZUdxSjBMOHdMUUpIOUFXNlc2cTktb082Z0tJM2xjaG1Ha3ozWm5ZYVBwOWs2aVlGc0l1SjI0Y2FOZ29XSU1URGxCZ3lJYWI3U0NkNdIBhwJBVV95cUxNRzY4d2tRN3g2MF8weVB3aGVUMzRGd214NG1ONUlQYm92N0ZfZ0NjNTZWTkxjTUY1LW85NVlLUlJ1d28waVpfcDctUFhVLXhkbEVrcXlkRFUtVkRGUjhJVkNjM0ZuaExudy1rVGFpN3M2emI0dW4yU2ZMYmgtNkFLMVktRUJBRlR5M2JObExBbU1mZGhCWU0zTUFfLWstQVRmRkJRek9PbWZfNUlPeEprOUVXVm9DTmR5dDBuUTdiclRBV25FLXNnTHpudElPN0RsY3J2Z2NIN2NsN1hEdWlocUc4eEZGeTB4bWpQdFNQd1otLW1GSjg5YmhSbEUyVV9Nb3k3MUpCVQ?oc=5",
+          "source": "Agencia Noticias Argentinas"
         },
         {
           "title": "Reforma electoral: el plan del gobierno para eliminar las PASO - Noticias Urbanas",
@@ -2811,11 +2831,6 @@
           "title": "Natalia de la Sota sobre la presentación de Adorni en el Congreso: \"Creo que tienen ganas de montar otro show\" - Perfil",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRlpaUTI0VXdjSnRDYmxfd0RoOUpHUkk0bW85WnJWQmYxek9DOGcyeXF5bzhRSWF4VDNibmpSTTF2X1IzbzZCUFdRRUZRX182OGVialdRTlktSERfQm5ucS00Y0xrOTNyc3BEcHRjV2hBampDZnZhRlBBUjgwTldicnYzcll4aGQ1V2VGNVkwUjZfU3hUTmlLb3BYUzN4b19LUjhVM0Q2dUdaM0FrU0YyaVN3MUtvb21TTTIyNGN1eEFoZ3RrR2N6dWs5cHQxcVBOT0dydFI5YlF6UFJkMUQ1UE0tUktTVlh30gHuAUFVX3lxTE1uN243aU5xYmxnOUdBTU9kQ29GUE8wYmlreEN5WmIwTTRaUUg2SWhvUTlXeGhGaDAwZ2tDZXhLb21HS1NrTEdhSkMtZTdjUnhrVlQzRXJYQjV2QnNyT0FJQ1puallVdUxTaFVxcVNONnJzeFRTWjB0MWpWRGlERi1yVmd2c3ZFekpIMlhZaFZraDZQM1RMbkRXcllvNGY1ZmpkZ0wwQTVuY3JfSXZSRUZrd2RQNHdYUWhPbXdXLTlUZDJTRzRlT0laenRzd2pQdW1tdFF1X1R6QVdoU1lDdkFFcmdrZHdBYktrLWhCRGc?oc=5",
           "source": "Perfil"
-        },
-        {
-          "title": "Natalia de la Sota: \"No se trata de ganar elecciones, se trata de pensar qué vamos a hacer después\" - gustavosylvestre.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYUNNT2dfN0VtS25TT25QTWxadXNoczhkZUM4RzlXY1BJeW93N215cWx3bTQ5cGpaS1lqNDc4UWsya05IU2lrWTFNeE5yNzJzMWpIcnJmM05RU2hNNEswRnBfZTNicVdGaVNtSlpna212MFJ2YWc5cmM1Tk5rNmxIOEtJUW1vaEhKcEdUSlQzdEZZV3VWVDdLWDI0Y0FUR1J5ZmRZZzJyeGkzdDhsU045YzUyUGxvTG4taDNzMmIxQzRSOU0?oc=5",
-          "source": "gustavosylvestre.com"
         },
         {
           "title": "Los gobernadores piensan las PASO como prenda de cambio con Javier Milei - Letra P",
@@ -2860,6 +2875,11 @@
           "source": "LA17"
         },
         {
+          "title": "Chile 2017: ambiciones, estrategias y expectativas en el estreno de las nuevas reglas electorales - SciELO Chile",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3pEMEFKZjhXcVFiVGVVTmx5ZzF3bVk3YkZZVHNQZUQ2RDItZGpxaDczRnYxNm9QZ1BtRkJwYTM4d1BBeVMxa29lUVpOWHFBbFNUY29CQ0NEUjM5Z2hiTkZ0SlQyWkpOdlYtb0NodzAtR3dWVVhlOVQzQ3lRaGRXYlQwMGhrdw?oc=5",
+          "source": "SciELO Chile"
+        },
+        {
           "title": "Arranca en el Senado el debate sobre la reforma electoral - Tiempo Sur",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0JQQVNhTmNnVlpveXg4eWtzTjZoSnJwTE9CVG1CUUxXbmdsMS1YdzhULWs2REVZQ05ydURHaEhtajg1ejJWazhoNlpUX3RFbjVHVFAwNGJ2MFNWaE9NQ2pRUUZuYVVfaXBNSDdhV3JCRnJabjBFa1o0Y1l1cTJ4NUp4ZFlqZzhwaExzU2tob0IxQXdBU0JFSGRHQdIBoAFBVV95cUxQUjBsLWRDMHNrdndobzZLNFI1U3JsVHhlbExWWWUtbElkWFlIOTRQWTJwb3EyaElSZUhGZVFXbkNsc0Ria21nenJlRGtYeG9NVEFYSDJXQmpDRWdkRHZMTGJ5Z1c4enlITnlOX1RCcUFoTHhmR2JrS0l2RFdSRXp5c2gtQ3dmd3JwRjZyV0FjZXRxMHFCbTl6Z2ZkS0VjZ01u?oc=5",
           "source": "Tiempo Sur"
@@ -2897,11 +2917,6 @@
       "quote": null,
       "sources": [
         {
-          "title": "Coparmex Hidalgo pide a senadores “razonar su voto” sobre reforma electoral - El Universal Hidalgo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0RaWmdIMEIzdXFlQm1VTC15QlVjZ05ZUDNNQ0lUZ3ZZT0pMazNPcUVvZWhmc2RpSHVkMFdMSVpRWFMyR3ZLUjNCaHNLNENmRW1zVlZmUm03WmJHb29IbnpUZWdqMHJxeDR0NjBnLTh3TFpzanlEdDlrWnZBU2hCWHQ0S2tJTldsWEF4aVg2a0pjOVJVWTFPbk1wRUVZMVJYZm5yRzlEaEhZMjB1V1pBQW43RTZQLTBKbXV30gHPAUFVX3lxTE5zN2RjSXVVTm9pRmRFV2VGTU9TYzRVX081NHE2V2JNY0ltM01rbEFWWTJURzJkV01xYnpLZGxLOFcyTmtjcUhfVm50S05Gc21Ea3VvNXNBdGpnLUMwdm9RSzV4OExUemZ6VG9neEktRWJLbmJHRHh5Qmt0ZWVHQXJCMkNET0RSZXN3UkhuZUNUUUwzTUVSMHlrcGdERUp6aGdvb2s0a1ZwZHlGVzlHMkkzWHRTSjNDOXVVRzR2VUdUdTJvVUk1cF9mMHRWZ3pKcw?oc=5",
-          "source": "El Universal Hidalgo"
-        },
-        {
           "title": "Grieta en el oficialismo por el proyecto para eliminar las PASO: Patricia Bullrich sugirió que sean optativas y choca con Martín Menem - Infobae",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNjNjYzlTTVl0YzFJMHdYUFVMWU5fcUZGOXNSM1RFS2Rqd0ZRV0wzM3dBV0lEd3NtVzAxNjZ2N0VHdzhsQTFnT082MmE2Vi1KaXl2Zm42ZnlkYU5Ec3dDSG45Mjh3TWdmTEVtV2FmeldpbmJ4azNYWWZxN2pmT2RNY1ltWXpVbXdJQnRaNUFZblFld3ZZOW10aE1lcWZRYjhnbFlhdXpNbnhlVUZFY0NPODZBTVBkekdKREJ5LVBaVWh4ckNza0JMbENxU2dKM1ZiVkpBTUFfcTVqZ09ENzZjaThtWS0tWk9VcDNrX1pmT1dESzh5eFU1dGhsUHIybTlWMFItZ3BzVFVNd9IBpAJBVV95cUxOWUM2NXdlQWRQT1J6MV9OMnE5UU5UOU1tMjV1dmhRU21kMVh3bXNKOERLMXVMdlBVa1E2ckN5X1Z6ZV8tcGZzSDl3VXFyREw4RXlRbjE2bDJSOUNuMXIxR01PTWVueXBiRkFKYnZHMktOckFsYU1rbU1JV2EtckJlOXZ0c0w0U3J2aVhNZGFUbWJzcEhuU0RxU1IyQ2hMd2g2dnIzcHhJNVdOY3ZFT19XbV9CMVdIVzZPMWhtcWdnNlFadmptQmNUNW1kQ2pTS0pVZWlsM214VzVRb0Q5ZE00dnhONU1XdnZRY0lra2RrZ3RSTURCb0w4U3hGSzJuVk50eE1jN0hhaXBsenBpSDBvRkxvVGJKa1Z0cFBaUXRtSllQYkxO?oc=5",
           "source": "Infobae"
@@ -2915,6 +2930,11 @@
           "title": "Uno a uno, así votaron diputados por la reforma electoral - El Universal",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcDZ0NnltYk95SUJ6b2pWalF5eUpSX0FkWlJKMmdKUUxLT1FSSG1TRlBWS3hLd2tEeS03QWlnQWMyWHlOMUJGSWNubENsbThtNGViLUM0blZKTTl6Wnc2S3VQY1lGVHNjMWFXZF92NlVOaGVYMUY2Mzlkd2owYjNTWkpOWHpXYmhXa21Na0stU211Z19Kcm9zUUlXQjJuWlZXdjFfMnB3VlV3YlJETXRZa21ybDlZc1QyaFBmUjNUNjJab2J6dnZwSlFEQm15RjdjT2xUczFhYjc0VmtfT2xHbkJLeFB3Mlo30gH8AUFVX3lxTE9VTV90LUVpdURYa21iYVVnUE5oaE9kUHJIUjNkMHc5S01OZXdERjRmY28wUjd2YzIyUEZzSy1BSkpaa2liaHpiZGpfZ2I2ZnNPaElJbkhreDNJVFB4dGVLUXM0UGRxcU10VE9Hc0RtNXJxaHkxMTRxYzFCOEhmR0VGVURJLUJMWWlDTzFfdXk2aVJsRm1CT0l5dHJRekxsMlczMTFES0hjRUgzVHZWdEJ5X2RRQTVPVGhWcjFWanVuZ2VWcHZKcW9CM1ZTaU10Y1h3R1BMNzlWQ19ZbExYeWw1TVpPNm03SnlYMFNBRlN6YXhKV1hYTUU0SUVEMg?oc=5",
           "source": "El Universal"
+        },
+        {
+          "title": "El brevísimo despertar y repliegue de la generación Z en México - EL PAÍS",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTdjOXI0Tk5RQU1ETEZJSFpreE5xTlA0d2VFbVhsVDJLeHNMUkk4RkwyZUpOZTdnNHdIOHdJdEVPcHdNQlFjbGZyaWJnTE8zQmpWZ1Y0ZU5NUG14X1VYWVlzSVRuMzc2XzNrMnlVdW9uVlZCNS0zdVY4VDJWR1NXYW5WZ3BFbFY5TC1WRncyYUN5eFUwbHcwTmpUUDZ3elNTZWo0b0VteXTSAbwBQVVfeXFMUFRSU0szS1ZuNjl2VjNVdE52NV9NdTVCQ1R5OWJvX0hMVE5LQXEzTU8zVWpvaU5yU0ExNkREWHN4MzlPa0wtX0RuSm1DWTFUT3JEVklnWlNHZlBSdldxNGJFc2MwVDlrUWdoell4eXFiT282ZG9LT2pvZWVDUjI3b3U1eTYzQm5NZmVta3dnTVpsaDZVekE0Zmd0aEZROGNVWWNRdFFuS3ZMOWZqLWJKN292bTdiYTkxU3lOLTg?oc=5",
+          "source": "EL PAÍS"
         },
         {
           "title": "Santa Cruz se encamina a votar con Boleta Única: todo lo demás está en debate - Letra P",
@@ -2954,9 +2974,9 @@
       "quote": null,
       "sources": [
         {
-          "title": "Cambio de reglas para las elecciones: las 5 claves del Código Electoral de Santa Fe rumbo a 2027 - airedesantafe.com.ar",
+          "title": "Cambio de reglas para las elecciones: las 5 claves del Código Electoral de Santa Fe rumbo a 2027 - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXpXRjIwX2pMenB5ZThqY0Fha2oyaW5rMHJweklRc2dHcHdsS2ZZUk5GMzBvZTlrajROejdpeWNKNmFLbTl3SVhYUWRvQjNZanhaY291ZTl3bWI2THgzTnlUQkFGaEltN0JON2dOc3d2NGtSRWtUOXlZdFVvOXJWM29UT2gxYjhhZ3c5Q2FSYzZWRFI1N0JSTFRXSWp2dTNlcVhtakZfb1VLaWlmSldlRlpnVC1wTlRJRXNRVTA1bGhZX2RzUEU3SXhEMlk?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "El nuevo estilo del Gobierno, la reforma electoral rumbo a 2027 y los motivos detrás de los cambios de la mesa política - Infobae",
@@ -2964,14 +2984,14 @@
           "source": "Infobae"
         },
         {
-          "title": "Reforma electoral en Santa Fe: Diputados debate hoy los cambios que regirán las elecciones de 2027 - airedesantafe.com.ar",
+          "title": "Reforma electoral en Santa Fe: Diputados debate hoy los cambios que regirán las elecciones de 2027 - Aire de Santa Fe",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc19PMXlVZDJrRE5GT3ZuLUJMci04d0tWeXBzNFlWZDNTMlFkNDV6ZjlNbjJWX2c3RUd0LVFGZlFrVzQtVzlORjFxbjFhdmhDbmczUjBqMFdMUzFQamxSV1V0d3JQZldBYzJYV005UFB3ZTNFdFEtT0E3NHpuQkh5MEo0ZDhpdWVqNnlKZ0JxZGIxeHdSa2VKaDhTM1hUS2VFd1dKVjRYYUhJOUItVG5mNTF6V2tCMTRkSVB4cEZOSFZ1ZnRfUEttc3RoZmhINHFXYUtsT1E3Qlo?oc=5",
-          "source": "airedesantafe.com.ar"
+          "source": "Aire de Santa Fe"
         },
         {
-          "title": "La silla vacía para quien falte: así será el debate obligatorio para gobernador en Santa Fe - airedesantafe.com.ar",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDFOZXJBV0xyU05BXzdEVng0OE5mX2U1LWR5RGd4Ymlxck03UG8zblFpTldIa2pKMlJRZlZoUHF6Vm9qeXRIUFo1NGE1Y095X2dEUWRwUmJDSW43dTdMYWRyT0owQ2I4QzdhWXV0bUx3c1hNWXBKeGdGcGtmdGVRblBYX1JlMndaS3RWbVYtaklLQVN2aUd0eC0zODY0blh2ZXhoVW9OYXpTR3lOZEpsRWt0MUxMZmIwaGpVdnZMTTNlZWlvOXo4UjVOUXBvc1dPeFk3Y3NheXA?oc=5",
-          "source": "airedesantafe.com.ar"
+          "title": "Avanza la reforma electoral en Santa Fe: media sanción en Diputados, con incorporaciones novedosas - Aire de Santa Fe",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUpnUUU5SjRtdFZNNXNfeGg0N3VWLTJUeUppRnpUSEczU3QzQ29ZNHR0aXpoU1pEdy1VRnJqUkxtYXpQcDRwc19rNlJSdlN5VTlkRUU4T2Z2LWdRYUlRczN1RXI2MElHUGNadkJfclVxenEweTNFdjNieERFOGh1TDd3YVBqa2dCeFdfUG0xLWRGLVhaRDRaa1R3R3AwSEg1N2hIUTZnaF91X1NtOC10dzl6b3Rfbm92TFV5NHFtcDlIaUQ3T25IMUZFeXF0QTI0VXc?oc=5",
+          "source": "Aire de Santa Fe"
         },
         {
           "title": "Cómo votó cada uno de los diputados la Ley Hojarasca, la iniciativa que apunta a derogar cerca de 70 normas - Infobae",
@@ -3004,5 +3024,5 @@
     "abstencion": 0,
     "sin_info": 57
   },
-  "last_updated": "2026-09-05T13:42:50.320761"
+  "last_updated": "2026-09-05T18:46:48.617978"
 }
