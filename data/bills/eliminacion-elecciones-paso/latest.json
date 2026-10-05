@@ -219,13 +219,7 @@
       "intention": "sin_info",
       "confidence": 0.0,
       "quote": null,
-      "sources": [
-        {
-          "title": "El PJ de Entre Ríos rechazó el cuestionamiento de Frigerio hacia las PASO - Diario Junio",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZF9obE1ydllqNmFJRzBtZlZqZnNHMFdYQ251M2ppX3FaWTdwX3VDTjNRVW1aUW8wVGo2WmY3RFp2V0d1cW92c191VFVlUjIyc2FHeWZRVGhOamI1U3dNWTBFMFVHWW4xbFZrc1JmOWo1MjU2X250dXZwSmh2cXFhSW9SY1pkbzg0VWVTTzRXSklLZmdVYS16dDJnMzNiUjV6dGtYMkV0N0k4VjQ?oc=5",
-          "source": "Diario Junio"
-        }
-      ],
+      "sources": [],
       "source": null,
       "reasoning": "No se encontraron artículos relevantes."
     },
@@ -643,5 +637,5 @@
     "abstencion": 0,
     "sin_info": 57
   },
-  "last_updated": "2026-10-05T01:33:41.706840"
+  "last_updated": "2026-10-05T20:18:32.655195"
 }
